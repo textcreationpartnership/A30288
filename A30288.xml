@@ -1,0 +1,724 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sure way to wealth Infallible directions to get and keep sufficient riches; even while taxes rise, and trades sink. By Daniel Burgess, pastor of a church near Covent-Garden, London.</title>
+            <author>Burgess, Daniel, 1645-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 90 KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30288</idno>
+            <idno type="STC">Wing B5718</idno>
+            <idno type="STC">ESTC R224016</idno>
+            <idno type="EEBO-CITATION">99834687</idno>
+            <idno type="PROQUEST">99834687</idno>
+            <idno type="VID">39191</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30288)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39191)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1808:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sure way to wealth Infallible directions to get and keep sufficient riches; even while taxes rise, and trades sink. By Daniel Burgess, pastor of a church near Covent-Garden, London.</title>
+                  <author>Burgess, Daniel, 1645-1713.</author>
+               </titleStmt>
+               <extent>viii, 70, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Andrew Bell and Jonas Luntley at the Pestle and Mortar, over against the Horse-shoe-Tavern in Chancery-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC XC III. [1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a final advertisement leaf.</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devotional literature --  Early works to 1800.</term>
+               <term>God --  Worship and love --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39191:1"/>
+            <p>
+               <hi>The Sure Way to Wealth.</hi> INFALLIBLE DIRECTIONS To get and keep Sufficient RICHES; Even while <hi>Taxes</hi> Riſe, and <hi>Trades</hi> Sink. By DANIEL BURGESS, Paſtor of a Church near <hi>Covent-Garden,</hi> London.</p>
+            <q>This is the Way, walk ye in it, <bibl>
+                  <hi>Iſa. 30.21.</hi>
+               </bibl>
+            </q>
+            <q>My God ſhall ſupply all your Need, <bibl>
+                  <hi>Phil. 4.19.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Andrew Bell</hi> and <hi>Jonas Luntley</hi> at the Peſtle and Mortar, over againſt the Horſe-ſhoe-Tavern in <hi>Chancery-Lane.</hi> MDCXCIII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:39191:2"/>
+            <pb n="iii" facs="tcp:39191:2"/>
+            <head>To my dear Brothers and Siſters;
+<list>
+                  <item>
+                     <hi>Mr.</hi> OBADIAH BURGESS,</item>
+                  <item>
+                     <hi>Mr.</hi> WILLIAM BURGESS,</item>
+                  <item>
+                     <hi>Mrs.</hi> MARY HAUSE,</item>
+                  <item>
+                     <hi>Mrs.</hi> SARAH PLUMMER,</item>
+                  <item>
+                     <hi>Mrs.</hi> HANNAH LEWIS,</item>
+                  <item>
+                     <hi>Mrs.</hi> ELIZABETH HARRISON:</item>
+               </list> With their faithful Conſorts.</head>
+            <p>THIS Branch of <hi>Directions</hi> hath been thought likely to bear <hi>good Fruit;</hi> and the more, becauſe it puts forth in ſo <hi>ill Times. Ill Ones,</hi> as they are <hi>called</hi> by thoſe through whoſe Means they are ſo made.</p>
+            <p>I have taken the <hi>Weather-ſide</hi> of them; and made their <hi>worſt Winds</hi> to <hi>blow good</hi> unto my Arguments. Which are more than a little ſtrengthned, by the
+<pb n="iv" facs="tcp:39191:3"/> Decays of our Foreign and Home-trade, and their conſumptive Effects.</p>
+            <p>
+               <hi>Vexation,</hi> the <hi>Hebrews</hi> ſay, <hi>gives Underſtanding.</hi> And <hi>Oppreſſion</hi> is known to have made <hi>mad Men wiſe,</hi> as well as <hi>wiſe Men mad.</hi> Who dares ſay, that there is no place for our <hi>hope</hi> of the <hi>Experiment?</hi> It was in a howling <hi>Wil<g ref="char:EOLhyphen"/>derneſs,</hi> that <hi>Iſrael</hi> was taught the <hi>Law;</hi> it may be, in this howling and murmur<g ref="char:EOLhyphen"/>ing ſtate of ours, <hi>we</hi> ſhall be better taught the <hi>Goſpel.</hi>
+            </p>
+            <p>Being perſwaded to make publick this <hi>Eſſay,</hi> it liked me jointly to ſalute you in this <hi>Entry.</hi> So expreſſing my dutiful Regard to <hi>your</hi> Souls, in my miniſtration unto <hi>others;</hi> wherein I cannot own my ſelf ſhort, when it hath not been thus ex<g ref="char:EOLhyphen"/>preſs'd. <hi>An eldeſt Brother ſhould be as a Father,</hi> ſaid one; unto whom I aſ<g ref="char:EOLhyphen"/>ſent. And having inſcribed another ſmall Writing to your <hi>Nephew</hi> and <hi>Nieces,</hi> I reſolved to mete like Meaſure, and inſcribe this to <hi>your ſelves:</hi> Who are as <hi>truly</hi> dear unto me, and from whom I am as undivided in Joys and Sorrows, as from thoſe <hi>Apples of my Eyes.</hi>
+            </p>
+            <pb n="v" facs="tcp:39191:3"/>
+            <p>You will all join with me in the <hi>Doxo<g ref="char:EOLhyphen"/>logy,</hi> to which I am carried by the thoughts of you. <hi>Good is the Lord,</hi> whoſe we <hi>are,</hi> and whom we <hi>ſerve. Let our Father's Houſe ſay, His Mercy endureth for ever.</hi> For,</p>
+            <p>In his good Pleaſure and rare Mercy, we, <hi>the Children of his Servants do continue,</hi> every one of us. We conti<g ref="char:EOLhyphen"/>nue in the <hi>Land of the Living,</hi> and in the <hi>Houſe of God.</hi> None <hi>buried,</hi> none <hi>dead while he liveth,</hi> or <hi>Excommuni<g ref="char:EOLhyphen"/>cated.</hi> None is <hi>gone down to the Duſt,</hi> in the ſenſe of the <hi>Pſalmiſt,</hi> (Pſal. <hi>22.29.</hi>) not one ſunk into <hi>ignominious Po<g ref="char:EOLhyphen"/>verty.</hi> As on the other hand, no one is of <hi>the very Fat of the Earth;</hi> no one hath his <hi>Houſe full of Silver and Gold.</hi> God hath choſen for all, what <hi>Agur</hi> choſe for himſelf, <hi>neither Poverty nor Riches.</hi> Not one <hi>Name</hi> infamouſly ſtained; not one <hi>Body</hi> deformed; not one <hi>Limb</hi> or <hi>Senſe</hi> diſabled. <g ref="char:V">Ʋ</g>nto every one is a <hi>Help-meet;</hi> a <hi>Covering</hi> of the Eyes,<note place="margin">Gen. 20.16. Ezek. 24.26.</note> that is the <hi>deſire</hi> of them.</p>
+            <pb n="vi" facs="tcp:39191:4"/>
+            <p>We are <hi>Children</hi> ſo <hi>beloved for our Father's ſake,</hi> and <hi>Mother's:</hi> For ſake of the Covenant made with them by their God: VVho <hi>hath brought upon us, that which he promiſed them</hi> for us. <hi>There faileth not ought of any good thing which the Lord ſpake unto them,</hi> and for which they truſted him.</p>
+            <p>Signally illuſtriouſly truſted him; <hi>Chu<g ref="char:EOLhyphen"/>ſing rather to ſuffer Afflictions with the People of God,</hi> and to make us par<g ref="char:EOLhyphen"/>takers of their Sufferings at <hi>Malborough,</hi> than to enjoy the Opulence of <hi>Colling<g ref="char:EOLhyphen"/>burn-ducis</hi> for a Seaſon: To name no more, well known in <hi>Wiltſhire.</hi>
+            </p>
+            <p>Let our Seal be ſet, <hi>God is true! The Juſt Man walks in his Integrity, and his Children are bleſſed after him!</hi>
+            </p>
+            <p>And let this <hi>Vote</hi> paſs into an <hi>Act; He is our God, we and our Houſes will ſerve him; He is our Father's God, and we will exalt him.</hi>
+            </p>
+            <p>So ſhall we do, if theſe <hi>Rules</hi> be fol<g ref="char:EOLhyphen"/>lowed. I mean, with theſe <hi>Cautions</hi> ta<g ref="char:EOLhyphen"/>ken; <hi>viz. That God's Glory be the higheſt End of our Obedience;</hi> and
+<pb n="vii" facs="tcp:39191:4"/> we do not obey <hi>ultimately</hi> for Self-ends. <hi>That our Reward which we dutifully expect, be not look'd for as our Me<g ref="char:EOLhyphen"/>rit;</hi> but we ſtill acknowledg that our Ser<g ref="char:EOLhyphen"/>vices deſerve not a <hi>drop of Water,</hi> while we conclude that <hi>Grace</hi> will follow them with the <hi>Rivers of God's Pleaſure.</hi>
+            </p>
+            <p>My <hi>Prayers</hi> aſcend inceſſantly for you and your little Ones. Nor hath our God <hi>greater Bleſſings,</hi> than thoſe that <hi>I ask</hi> him for you. And of you all, chiefly for <hi>that Family which Provi<g ref="char:EOLhyphen"/>dence hath placed moſt remotely from us, in another Kingdom.</hi> 
+               <g ref="char:V">Ʋ</g>nto which we all owe <hi>peculiar</hi> Offices of Love, where<g ref="char:EOLhyphen"/>to I muſt hope none will ever be <hi>difficult,</hi> but all continue moſt <hi>forward.</hi>
+            </p>
+            <closer>
+               <signed>I am, Your moſt affectionate Brother, and Servant in Love, <hi>Daniel Burgeſs.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="epigraph">
+            <pb n="viii" facs="tcp:39191:5"/>
+            <head>
+               <hi>S. Woodford</hi> in Paraphraſe on <hi>Pſal. 37,</hi> and <hi>34.</hi>
+            </head>
+            <lg>
+               <l>IN War good Men are kept, in Famine fed:</l>
+               <l>In the worſt Times, bluſh not, nor be afraid;</l>
+               <l>God, who's their Shield, himſelf doth find them Bread;</l>
+               <l>And only makes their Enemies diſmay'd.</l>
+               <l>Sinners, like Fat of Lambs, ſhall waſte,</l>
+               <l>And only leave a Smoak behind,</l>
+               <l>To be the Triumph of the Wind;</l>
+               <l>Their Goods ill gotten ſhall not laſt,</l>
+               <l>But like their ſudden Growth, their End ſhall come as faſt.</l>
+            </lg>
+            <lg>
+               <l>Say, Lord, this poor Man to thee cried,</l>
+               <l>And thou heardſt him; why then am I denied?</l>
+               <l>I who no leſs am thy great Care,</l>
+               <l>Since equally round both encamp'd thine Angels are.</l>
+               <l>Try God but thus, and thou ſhalt know</l>
+               <l>Thy Joy as certain, as my Joys are now:</l>
+               <l>How good God is, how happy they,</l>
+               <l>Who make his Pow'r their Hope, his Love their Stay!</l>
+               <l>Dread him! for if he has thy Fear,</l>
+               <l>Thou may'ſt be confident thy Wants ſhall have his Ear.</l>
+               <l>He'l be himſelf thy mighty Store,</l>
+               <l>When ſavage Lions ſhall for Hunger roar:</l>
+               <l>While thoſe that glory in their Gold,</l>
+               <l>And in his own Chains would the Priſoner hold,</l>
+               <l>Spoilers themſelves are Captives made,</l>
+               <l>And into ſudden Want, which they leaſt fear'd, betray'd.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:39191:5"/>
+            <head>
+               <hi>The ſure Way to Wealth.</hi> Infallible <hi>DIRECTIONS</hi> to get Riches enough, while Trades ſink, and Taxes riſe.</head>
+            <p>OUtcries of <hi>Poverty</hi> do fill the City and Country; If not in <hi>Truth,</hi> yet in com<g ref="char:EOLhyphen"/>mon <hi>Fame,</hi> it comes on us like an <hi>armed Man,</hi> irreſiſtably. Mens Hearts fail them for Fear; it is every where ſaid, <hi>We ſhall all be <g ref="char:V">Ʋ</g>ndone.</hi> From the <hi>Court</hi> to the <hi>Mill,</hi> this is the Complaint; nor ever from my Child<g ref="char:EOLhyphen"/>hood, have I heard it ſo <hi>vexatiouſly</hi> uttered as at this Day, or ſo <hi>univer<g ref="char:EOLhyphen"/>ſally.</hi>
+            </p>
+            <pb n="2" facs="tcp:39191:6"/>
+            <p>For even they that <hi>fear</hi> God, ſeem but little more than others to <hi>truſt</hi> him. Believers on his Son for the Sal<g ref="char:EOLhyphen"/>vation of their <hi>Souls,</hi> do tormentingly fear what will become of their <hi>Bo<g ref="char:EOLhyphen"/>dies.</hi> Men that have his <hi>Spirit,</hi> are ſaying as the old <hi>Iſraelites</hi> did, <hi>Who ſhall give us Fleſh to eat?</hi> They that are ſatisfied with his Word for the <hi>Life to come,</hi> ſhow plainly that they cannot reſt thereon for the <hi>Life that now is.</hi>
+            </p>
+            <p>So much Abſurdity cleaveth to our Wiſdom. We truſt for a <hi>Crown of Glory,</hi> and diſtruſt for a <hi>Crumb of Bread.</hi> As though holy <hi>Faith</hi> were the <hi>ſubſtance of Things hoped for in Heaven</hi> only, and not in <hi>the Way to it:</hi> The <hi>Evidence of Things therein not yet ſeen,</hi> and not of Things on our <hi>way thither.</hi> As though <hi>Godlineſs</hi> had not <hi>Promiſes of this Life;</hi> which is <hi>untrue.</hi> As though we <hi>duly truſted</hi> in the living God, while we <hi>diſtruſted</hi> him for our leaſt and loweſt Life; which is <hi>impoſſible.</hi>
+            </p>
+            <pb n="3" facs="tcp:39191:6"/>
+            <p>In ſhort; good <hi>Clothes</hi> and good <hi>Eſtates,</hi> be ſuch as are neither ſo <hi>nar<g ref="char:EOLhyphen"/>row</hi> as to pinch and ſtraiten us, nor ſo <hi>wide</hi> as to cumber us. <hi>Agur</hi> very well underſtood <hi>good Living.</hi> Defects and Exceſſes break its Rules with us. The word <hi>Riches</hi> ſignifieth two things: A <hi>ſufficiency</hi> for ones real Occaſions, and juſt <hi>Contentment</hi> therewith. With<g ref="char:EOLhyphen"/>out theſe, <hi>Kings and Queens are very poor People;</hi> but with them <hi>we</hi> are as <hi>rich</hi> as <hi>they;</hi> We have as much <hi>Wealth,</hi> though leſs <hi>Gold.</hi> We have <hi>Enough;</hi> that is (at leaſt) as good as their <hi>Feaſt.</hi> And as many as walk by theſe Rules, ſhall not fail of this <hi>enough:</hi> Shall be <hi>rich,</hi> above the controul of <hi>Stars, Wars</hi> and <hi>Taxes.</hi>
+            </p>
+            <p>Direction I. <hi>Truſt your Guardians.</hi> I ſuppoſe you to be true Chriſtians; and if ſo, the <hi>Father, Son</hi> and <hi>Spirit</hi> are your <hi>Guardians.</hi> They have pro<g ref="char:EOLhyphen"/>miſed to care for you, in <hi>Temporals</hi> as in <hi>Spirituals;</hi> have they not? 1 Pet. 5.7. <hi>The Lord who careth for you.</hi> And you have choſe God for your
+<pb n="4" facs="tcp:39191:7"/> Guardian, have you not? 2 Cor. 8.5. <hi>They first gave their own ſelves to the Lord;</hi> themſelves, and all they had. God hath promiſed, <hi>He will ne<g ref="char:EOLhyphen"/>ver leave nor forſake you,</hi> Heb. 13.5. <hi>unleſs you forſake him.</hi> 2 Chron. 15.2. <hi>The Lord is with you while you are with him; if you ſeek him, he will be found of you; but if you forſake him, he will forſake you.</hi> He hath not pro<g ref="char:EOLhyphen"/>miſed <hi>to take care of your Souls,</hi> and <hi>left you to ſhift for your ſelves in things that concern your Bodies.</hi> It is Chriſt's word, <hi>Take you no thought for your Life. Say not you, What ſhall we eat, or what ſhall we drink, or wherewithal ſhall we be clothed?</hi> Matth. 5.25, 31. And it is Chriſt's Command, that you <hi>caſt all your Care upon him who cares for you:</hi> All your Care for your bodily Concernments. Wherefore depend upon his <hi>Care,</hi> and you ſhall have <hi>Suc<g ref="char:EOLhyphen"/>ceſs, Support,</hi> and <hi>Maintenance.</hi> Your <hi>Cottage</hi> ſhall be a <hi>Court.</hi> But if you relie not on him, marvel not if your <hi>Court</hi> ſink to a <hi>Cottage;</hi> If your <hi>Abun<g ref="char:EOLhyphen"/>dance</hi> be brought to <hi>Nothing:</hi> For no<g ref="char:EOLhyphen"/>thing
+<pb n="5" facs="tcp:39191:7"/> is ſafe but what he keeps; <hi>there is no Enſuring-Office below Heaven.</hi> There indeed is one that deſerveth well the Name. By your own and your Friends careful thought, you can<g ref="char:EOLhyphen"/>not to your <hi>Stature add a Cubit;</hi> nor to your Subſtance a Groat. <hi>It is God that maketh Rich and Poor:</hi> As little as you think of it, you dare not deny it. The Income of Chriſtians, is accord<g ref="char:EOLhyphen"/>ing to their Behaviour towards their Guardians. Thou ſhalt never have an <hi>undoing Loſs,</hi> if thou doſt <hi>commit thy Way unto the Lord,</hi> Pſal. 37.5.</p>
+            <p>Direct. II. <hi>Go to School to the Ants.</hi> Learn <hi>Diligence</hi> with your <hi>Truſt.</hi> God doth not <hi>ſell</hi> his Bread to us for our <hi>Pains;</hi> nor doth he promiſe it to us in our Sloth. He gives <hi>Food,</hi> but re<g ref="char:EOLhyphen"/>quires <hi>Sweat;</hi> true Labour in our Cal<g ref="char:EOLhyphen"/>ling.</p>
+            <p>It's by the diligent Hand that he makes poor Men <hi>rich,</hi> Prov. 10.4. <hi>to ſtand before Princes,</hi> Prov. 22.29. and <hi>to bear Rule,</hi> Prov. 12.24. And it is for Sloth, and by it, that the <hi>Rich are
+<pb n="6" facs="tcp:39191:8"/> made Poor.</hi> Prov. 23.21. <hi>Drowzineſs ſhall clothe a Man with Rags.</hi> Prov. 20.4. <hi>The Sluggard ſhall beg in Har<g ref="char:EOLhyphen"/>veſt, and have nothing.</hi> Prov. 12.24. <hi>The ſlothful ſhall be under Tribute,</hi> in a baſe underling Condition. 2 Theſſ. 3.10. <hi>This we commanded,</hi> (from the Lord) <hi>if any Man would not work, neither ſhould he eat.</hi> It ſeemeth God's Will, that we be <hi>laborious as Ants,</hi> or <hi>poor as Snakes.</hi> And it's certain, that Fire and Sword make not ſo many Beggars, as Sloth. <hi>Plant</hi> and <hi>water,</hi> God will give <hi>Increaſe.</hi> You ſhall be little troubled with <hi>Poverty,</hi> if you but keep from the <hi>little Sleep, the little Slumber, the little folding of the Hands to ſleep,</hi> Prov. 24.33.</p>
+            <p>Why ſhould <hi>Drones</hi> eat the Hony of <hi>Bees?</hi> or the Earth feed its unprofita<g ref="char:EOLhyphen"/>ble Burdens? It may not be expected; and where it's <hi>permitted,</hi> 'tis always <hi>accurſed.</hi>
+            </p>
+            <p>Truly <hi>happy Kings</hi> be <hi>Day-labourers;</hi> and <hi>bleſſed Courts</hi> be very <hi>VVorkhouſes.</hi> Could Idleneſs invade <hi>Heaven,</hi> it would make a <hi>Famine</hi> there. <hi>Cheru<g ref="char:EOLhyphen"/>bims</hi>
+               <pb n="7" facs="tcp:39191:8"/> and <hi>Seraphims</hi> have Wings and Feet, and do uſe them. <hi>Angels Food</hi> is not the <hi>Bread of Idleneſs;</hi> they eat no ſuch <hi>Poyſon.</hi>
+            </p>
+            <p>Direct. III. <hi>Lean upon no Reeds.</hi> Earthly <hi>Gods</hi> be but mortal <hi>Men;</hi> it's a wonder they ſhould be truſted in by any <hi>rational</hi> Ones. But generally they are ſo; nor doth any thing more hin<g ref="char:EOLhyphen"/>der uſe of our <hi>Diligence,</hi> and truſt to Divine <hi>Providence,</hi> than truſt in Man. Great Expectations from Parents, and rich Friends, are ſuch a Snare; and thereby the Means of <hi>infamous Pover<g ref="char:EOLhyphen"/>ty</hi> unto many. Few think ſo; but unerring Wiſdom tells us, <hi>Men of high Degree are a Lie,</hi> Pſal. 62.9. And unſpotted Juſtice paſſeth this Sentence, <hi>Curſed be the Man that truſteth in Man, and maketh Fleſh his Arm, and whoſe Heart departeth from the Lord,</hi> Jer. 17.5. <hi>Papiſts</hi> rely on <hi>Angels and Saints above;</hi> but they, and <hi>Prote<g ref="char:EOLhyphen"/>ſtants</hi> alſo, lean too hard on <hi>Men be<g ref="char:EOLhyphen"/>low.</hi> Beware hereof, and know this; <hi>Truſt in the Rich makes many Poor;</hi>
+               <pb n="8" facs="tcp:39191:9"/> but he ſhall be well provided for, who hearkneth to the Prophet, <hi>Iſa.</hi> 2.22. <hi>Ceaſe ye from Man whoſe Breath is in his Noſtrils; For wherein is he to be ac<g ref="char:EOLhyphen"/>counted of?</hi> If Creatures muſt be Ac<g ref="char:EOLhyphen"/>ceſſories, I pray let God ſtill be Prin<g ref="char:EOLhyphen"/>cipal.</p>
+            <p>A great Man uſed to ſay, That his <hi>Memory</hi> never deceived him; for this very good Reaſon, becauſe he never truſted it. Do by all Creatures, as he did by his Memory; <hi>uſe</hi> them, but not <hi>truſt</hi> them, and they ſhall <hi>ſerve</hi> you and not <hi>deceive</hi> you. <hi>This is the Way, walk in it.</hi>
+            </p>
+            <p>Direct. IV. <hi>Serve but one Maſter.</hi> You have but <hi>one Soul,</hi> and that can<g ref="char:EOLhyphen"/>not ſerve <hi>God</hi> and <hi>Mammon.</hi> It may be a <hi>Slave to the Devil's Luſts,</hi> and a <hi>Subject of God's VVrath;</hi> but it can<g ref="char:EOLhyphen"/>not be <hi>a Servant to ſo contrary Maſters,</hi> Mat. 2.24. Of God it is written, <hi>Him only ſhalt thou ſerve,</hi> Matth. 4.10. And that he, and none beſide him, <hi>is God, and the Rewarder of them that ſeek him,</hi> Heb. 11.6.</p>
+            <pb n="9" facs="tcp:39191:9"/>
+            <p>But the very firſt Commandment, is of all the moſt broken one; who can ſay, I have no other God beſide him? My <hi>Eſtate,</hi> my <hi>Name,</hi> my <hi>Child,</hi> my <hi>Pleaſure,</hi> is no God of mine. Moſt of thoſe that have the <hi>true God in their Mouths,</hi> have theſe <hi>ſtrange Gods in their Hearts:</hi> And therefore are <hi>their Sorrows multiplied, becauſe they haſten after other Gods,</hi> Pſalm 16.4. Therefore it is, that they <hi>want any good thing,</hi> becauſe they have <hi>more Gods than one,</hi> Pſal. 34.9. And what wonder if they be abaſed by the true God, that ſet up falſe Ones? Let the true God <hi>have all your Hearts;</hi> and let the Shame be mine if he doth not <hi>ſupply all your Wants.</hi> Phil. 4.19. <hi>My God ſhall ſupply all your Need, ac<g ref="char:EOLhyphen"/>cording to his Riches in Glory by Chriſt Jeſus.</hi>
+            </p>
+            <p>He is a <hi>true</hi> Maſter; and he has promiſed, that if we <hi>ſeek firſt his Kingdom and its Righteouſneſs, we ſhall not have that only, but a good Subſtance with it,</hi> Mat. 6.33. All <hi>theſe things ſhall be added.</hi>
+            </p>
+            <pb n="10" facs="tcp:39191:10"/>
+            <p>He is a <hi>wiſe</hi> Maſter alſo; too wiſe to ſend Servants in his Meſſage, and cut off their Feet: I ſay their <hi>Feet,</hi> for this World's Bleſſings be as requiſite to his Worſhip, as our Feet be to our Walk. And he knows it well enough, Mat. 6.32. <hi>Your heavenly Father know<g ref="char:EOLhyphen"/>eth that you have need of theſe things.</hi> He knows that if he <hi>will employ us,</hi> he <hi>muſt maintain</hi> us on this Earth; we cannot live by the Air.</p>
+            <p>He is a <hi>good</hi> Maſter too; He de<g ref="char:EOLhyphen"/>lighteth in Mercy. But there were ſmall ſign of it, if he fed <hi>Ravens</hi> and <hi>Lions,</hi> and ſtarved <hi>thoſe that loved him above their Lives;</hi> eſpecially, being that he hath in his Houſe <hi>Bread enough and to ſpare,</hi> Luke 15.17. <hi>Known and wilful Sins,</hi> (that is, Averſions from God, and Converſions unto Creatures) <hi>will bring the Moth and the Lion.</hi> Sometimes a <hi>Moth</hi> that eats out an Eſtate ſlowly, and ſilently, no bo<g ref="char:EOLhyphen"/>dy knows how. Sometimes a <hi>Lion,</hi> that makes open and quick work with it, <hi>Hoſea</hi> 5.12, 14. Hear O ye <hi>Rich,</hi> hear it O ye <hi>Poor;</hi> partial Religion
+<pb n="11" facs="tcp:39191:10"/> brings this ſad <hi>Moth</hi> and <hi>Lion.</hi> Moſt Men have <hi>ſome</hi> Religion, but few have <hi>All.</hi>
+            </p>
+            <p>
+               <hi>Naaman</hi> was a <hi>Captain,</hi> and was a <hi>Favourite,</hi> and was <hi>much more;</hi> but he was a <hi>Leper.</hi> One and another of you is a <hi>juſt</hi> Man, a <hi>charitable,</hi> a <hi>Ser<g ref="char:EOLhyphen"/>mon-hearer,</hi> and a great deal more; but he is a <hi>neglecter of the Lord's Sup<g ref="char:EOLhyphen"/>per:</hi> Never renewed his holy <hi>baptiſ<g ref="char:EOLhyphen"/>mal Covenant at God's Table.</hi> It may be he underſtands it not; at leaſt he has his <hi>But,</hi> and his <hi>Leproſy;</hi> he acts not ſome <hi>Grace,</hi> he indulges ſome <hi>Luſt.</hi> Some <hi>Duty</hi> he doth not perform, ſome <hi>Ordinance</hi> he doth not attend. Hence, hence comes the Wrath of God, who hates to be ſerv'd by halves. Follow the Lord fully, and <hi>verily thou ſhalt be fed,</hi> Pſal. 37.3.</p>
+            <p>Direct. V. <hi>Wear your Maſter's Live<g ref="char:EOLhyphen"/>ry. Humility</hi> is the ſupream King's <hi>Livery.</hi> And his Servants are <hi>ſhame<g ref="char:EOLhyphen"/>fully naked,</hi> when they are any <hi>other<g ref="char:EOLhyphen"/>wiſe clothed.</hi> St. <hi>Peter</hi>'s words which we read, <hi>Be ye clothed with Humility,</hi>
+               <pb n="12" facs="tcp:39191:11"/> are thought fit to be thus read; <hi>Be ye clothed with Humility, as your Badg and Livery. [Humilitatem induite ut</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>quale viles ſervi geſtarent,</hi> Heinſius in 1 <hi>Pet.</hi> 5.5.] You may not therefore look to be fed with God's <hi>Bread,</hi> if you caſt off his <hi>Badg.</hi> Alas, that <hi>it ſhould be ſo grown out of fa<g ref="char:EOLhyphen"/>ſhion</hi> in our Days. But wot ye, <hi>there is no Garment of richer Praiſe.</hi> Our Bleſſed Saviour never put it off; and he commanded us to learn from him the perpetual Uſe of it, <hi>Matth.</hi> 11.28. He knew and taught the grate<g ref="char:EOLhyphen"/>fulneſs of it unto God. Its <hi>being,</hi> as is ſaid of the <hi>Violet,</hi> of ſweeteſt <hi>Scent,</hi> though of loweſt <hi>Place.</hi> For your Lives then, <hi>keep on this Livery;</hi> and, <hi>hold this Violet in your Boſoms.</hi> A Flower, without which the <hi>higheſt Angels</hi> would ſtink in God's Noſtrils. And, with it, the <hi>worſt Sinner</hi> hath a way into his Favour.</p>
+            <p>In God is no Pride at all; He doth not <hi>think</hi> himſelf, nor <hi>deſires</hi> he to be thought better than he is. Unto his Soul, Pride is the moſt abominable Sin
+<pb n="13" facs="tcp:39191:11"/> of all; He reſiſts, ſtands in Battel-array againſt it, <hi>James</hi> 4.6. It's <hi>an Abomination to him,</hi> Prov. 16.5. What <hi>brings Men low?</hi> It's Pride, <hi>Prov.</hi> 29.23. What <hi>brings Shame?</hi> It's Pride, <hi>Prov.</hi> 11.2. What <hi>deſtroyeth Fami<g ref="char:EOLhyphen"/>lies?</hi> It's Pride, <hi>Prov.</hi> 15.25. <hi>The Houſe of the Proud ſhall be deſtroyed.</hi> It brought <hi>
+                  <g ref="char:V">Ʋ</g>zzias</hi> the Leproſy, 2 <hi>Chron.</hi> 26.27. It coſt <hi>David</hi> the Lives of ſeventy thouſand Men, 1 <hi>Chron.</hi> 21.14. It brought Wrath upon <hi>Heze<g ref="char:EOLhyphen"/>kiah,</hi> and all <hi>Judah</hi> and <hi>Jeruſalem,</hi> 2 Chron. 32.25. [Tremble old <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> whoſe Pride taketh <hi>Bleſſings</hi> with <hi>Diſdain and Scorn,</hi> and <hi>Croſſes</hi> with <hi>Wrath</hi> and <hi>Rage.</hi> Thy Pride looks like the Harbinger of thy Death!] Pride gave the Apoſtle <hi>Paul,</hi> a Meſ<g ref="char:EOLhyphen"/>ſenger of Satan, 2 <hi>Cor.</hi> 12.7. Won<g ref="char:EOLhyphen"/>der not that any break and burſt, when they ſwell of Pride's Tinpany. Mar<g ref="char:EOLhyphen"/>vel not that <hi>high Hills</hi> be barren, and high-minded Men be begging. Think not ſtrange to ſee <hi>Lice</hi> eat up <hi>Herods;</hi> and <hi>Gnats</hi> and <hi>Flies</hi> plague <hi>Pharaohs.</hi> But know this; the <hi>Meek ſhall inherit
+<pb n="14" facs="tcp:39191:12"/> Earth,</hi> and Heaven too, <hi>Matth.</hi> 5.5. Valleys ſhall laugh with richeſt Fat<g ref="char:EOLhyphen"/>neſs, and honourable Eſtate ſhall be to the Humble, <hi>Prov.</hi> 15.33.</p>
+            <p>If Humility put your <hi>Mouth in the Duſt,</hi> neither God's Wrath or Man's ſhall put your <hi>Honour in the Duſt.</hi> Humble your Minds to God's <hi>Sove<g ref="char:EOLhyphen"/>raignty,</hi> and your Wills to his <hi>Precepts</hi> and <hi>Providences;</hi> and then aſſure you of his rich <hi>Promiſes.</hi> He will <hi>exalt you,</hi> 1 Pet. 1.6. He will <hi>beautify you,</hi> Pſal. 149.4. He will <hi>make your Soul dwell at eaſe, and your Seed inherit the Earth,</hi> Pſal. 25.</p>
+            <p>Of Humility I will ſay, <hi>As poor as it looks, it makes many Rich.</hi> Though <hi>it ſeems to have Nothing, yet it poſſeſ<g ref="char:EOLhyphen"/>ſeth all Things.</hi> And he was not be<g ref="char:EOLhyphen"/>ſides himſelf, who ſaid, That <hi>he would rather be an humble Devil, than a proud Angel.</hi> The <hi>Depth</hi> of Humility, is better than the <hi>Height</hi> of Pride. Say then to Pride, as <hi>Naboth</hi> to <hi>Ahab; God forbid it, that I ſhould give away the In<g ref="char:EOLhyphen"/>heritance of my Fathers unto thee.</hi>
+            </p>
+            <pb n="15" facs="tcp:39191:12"/>
+            <p>Direct. VI. <hi>Hold your Heart at your right Hand.</hi> Your <hi>Heart</hi>'s Buſineſs is to <hi>Contrive</hi> and <hi>Conſult;</hi> your <hi>Hands</hi> is to <hi>Work</hi> and <hi>Execute;</hi> your <hi>Intereſt</hi> requires, that theſe two be never aſun<g ref="char:EOLhyphen"/>der. They are <hi>Fools,</hi> and it's odds but they are <hi>Beggars</hi> too, that contrive without executing, or raſhly act, with<g ref="char:EOLhyphen"/>out firſt deliberating, <hi>Eccleſ.</hi> 10.2. God's <hi>Bleſſing</hi> you may not expect up<g ref="char:EOLhyphen"/>on your Affairs, if you follow not his <hi>Counſel</hi> in ordering of them. His Counſel is, that you order them with this Diſcretion; Pſal. 112.5. <hi>A good Man will guide his Affairs with Diſcre<g ref="char:EOLhyphen"/>tion.</hi> Clothe his Family, Furniſh his Houſe, Buy, Sell, Give, Refuſe to give with Diſcretion. With <hi>all his own,</hi> and oft-times <hi>borrowed</hi> Diſcre<g ref="char:EOLhyphen"/>tion; taken from the <hi>Counſel</hi> and <hi>Ex<g ref="char:EOLhyphen"/>ample</hi> of Men more Diſcreet. <hi>He that hearkneth to Counſel, is wiſe,</hi> Prov. 12.15.</p>
+            <p>It is oft ſaid by decayed Men, <hi>This and that unadviſed Act undid me; had
+<pb n="16" facs="tcp:39191:13"/> I taken my Friends Advice, I had not become a Charge to my Friends.</hi> He is ſurely no <hi>wiſe</hi> or <hi>good</hi> Man, that asks not Counſel from God in his ſecular Buſineſs; and having ask'd it, doth not look after it: Expecting to have it given him in the ordinary Ways of his wiſe Providence. Theſe are <hi>Medita<g ref="char:EOLhyphen"/>tion</hi> and <hi>Conſultation</hi> with ſuch as are Godly Wiſe. The neglect whereof is therefore ſtark Profaneneſs; and, as a direct <hi>working</hi> Cauſe, a highly <hi>deſer<g ref="char:EOLhyphen"/>ving</hi> Cauſe, of deep Poverty. Nor need they to wonder at their ignomi<g ref="char:EOLhyphen"/>niouſly low Condition, who hereby ſin themſelves into it: Foraſmuch as they do (among other Evils) <hi>bring the Re<g ref="char:EOLhyphen"/>ligion they profeſs into greateſt Diſ<g ref="char:EOLhyphen"/>grace.</hi> Cauſing more than a few to <hi>conceit</hi> and <hi>exclaim,</hi> that Religion maketh Men ſimple and ſelf-undoing Idiots in this World.</p>
+            <p>Walk wiſely then, and you are ſafe; you have Royal Security; <hi>Prov.</hi> 24.3, 4. <hi>Through Wiſdom is an Houſe built, by <g ref="char:V">Ʋ</g>nderſtanding it is eſtabliſhed. By
+<pb n="17" facs="tcp:39191:13"/> Knowledg ſhall the Chambers be filled with all precious and pleaſant Riches.</hi> The Riches, which <hi>are not always</hi> to Men of Underſtanding, are <hi>ſuch as can be very well ſpared</hi> by Men of Un<g ref="char:EOLhyphen"/>derſtanding; that is, for the <hi>time</hi> that they are without them, and upon the <hi>occaſions.</hi>
+            </p>
+            <p>Even <hi>David</hi> was once fain to ask Supplies from <hi>Nabal;</hi> and our bleſſed <hi>Saviour</hi> had not <hi>where to lay his Head.</hi> But <hi>ordinarily</hi> Wiſdom enricheth; and when for a ſhort ſeaſon it receiveth, it <hi>rejoiceth in Tribulations.</hi> As well it may; for, its Poverty is glorious. No Mar<g ref="char:EOLhyphen"/>tyr is a Beggar. There is a very reign<g ref="char:EOLhyphen"/>ing with Chriſt, in ſuffering for him.</p>
+            <p>Direct. VII. <hi>Watch againſt your five Enemies:</hi> Such are your <hi>five Senſes.</hi> See to it, and <hi>keep thoſe Bears in Chains.</hi> They are as wild Creatures; and if not warily and ſtrongly kept in ſub<g ref="char:EOLhyphen"/>jection, will tear and deſtroy your Temporal, with your Spiritual Inte<g ref="char:EOLhyphen"/>reſts.</p>
+            <p>He was a Monſter, that in this <hi>Lon<g ref="char:EOLhyphen"/>don</hi> ſpent his <hi>whole Patrimony</hi> (of ma<g ref="char:EOLhyphen"/>ny
+<pb n="18" facs="tcp:39191:14"/> thouſands of Pounds, as I hear) in <hi>one Treat of his five Senſes:</hi> But he was a Brother of yours, by Father and Mother's Side. And your Blood hath the like <hi>Brimſtone</hi> in it; beware that it take not <hi>fire.</hi> If your Luſts <hi>kindle,</hi> your Subſtance is quickly <hi>in Aſhes:</hi> For <hi>Wool</hi> will not be ſoft enough then for your Backs; nor any but the moſt ſumptuous <hi>Silks.</hi> No <hi>Diſhes</hi> will re<g ref="char:EOLhyphen"/>liſh, except <hi>Dainties;</hi> no <hi>Table</hi> pleaſe, unleſs it be ſpread with <hi>Snares;</hi> no<g ref="char:EOLhyphen"/>thing but what's above your Eſtate, will pleaſe your Palat. <hi>Neceſſaries</hi> will be loath'd without <hi>Superfluities. One Luſt</hi> ſhall ſtand you in more by the Year, than all <hi>Nature.</hi> More will be ſpent <hi>extravagantly</hi> in a Day, than <hi>neceſſarily</hi> in a Week. So chargeable things are ſenſual Delights: Its be<g ref="char:EOLhyphen"/>witching <hi>Epilepſies</hi> require ſo much to maintain them.</p>
+            <p>Alas, our <hi>Bodies</hi> are ſinful, as tru<g ref="char:EOLhyphen"/>ly as our <hi>Souls,</hi> and need Sanctificati<g ref="char:EOLhyphen"/>on, 1 <hi>Theſſ.</hi> 5.23. They are rebelli<g ref="char:EOLhyphen"/>ous againſt <hi>God</hi> and our <hi>Souls;</hi> their <hi>Senſes</hi> ſway more powerfully, than the unrenewed Soul's <hi>Reaſon</hi> doth.
+<pb n="19" facs="tcp:39191:14"/> And regenerated Men have enough to do to controul and keep them down, 1 <hi>Cor.</hi> 9.27. If they prevail and act us, we ceaſe to be <hi>Chriſtians,</hi> yea <hi>Men;</hi> we are as <hi>Beaſts that periſh,</hi> Pſal. 50. <hi>ult.</hi> They ceaſe not to war in us for that prevalency; they are reſtleſs <hi>Tempters</hi> and <hi>Seducers</hi> within us, as Devils are without us. The <hi>Eye,</hi> the <hi>Ear,</hi> and the reſt of them crave for what <hi>Grace</hi> and <hi>Reaſon</hi> forbid. And, O how commonly are immortal <hi>Souls</hi> damned to gratify thoſe periſhing Brutes? How alſo are <hi>Names</hi> and <hi>Eſtates</hi> devoured, that theſe <hi>Senſes</hi> may be humoured? Damned Angels are <hi>leſs</hi> Deſtroyers? and without theſe, could not be ſo eaſily deſtroyers of us. Prov. 21.17. <hi>He that loveth Pleaſure, ſhall be a poor Man; he that loveth Wine and Oil, ſhall not be rich.</hi> That is, he that loveth them for more than their proper Uſe; for <hi>Luſt,</hi> as moſt do. <hi>Adam</hi> and <hi>Noah</hi> (our two great Parents) fell by <hi>Eat<g ref="char:EOLhyphen"/>ing</hi> and <hi>Drinking;</hi> millions of their Children are undone thereby.</p>
+            <p>The <hi>Senſes</hi> were given to maintain <hi>natural Life;</hi> but Sin makes them de<g ref="char:EOLhyphen"/>ſtroy
+<pb n="20" facs="tcp:39191:15"/> 
+               <hi>rational Life,</hi> and <hi>Natural</hi> too, full often.</p>
+            <p>Would you ſee <hi>good Days,</hi> and <hi>ma<g ref="char:EOLhyphen"/>ny?</hi> This you muſt do, Day by Day: Let religious Reaſon rule you; and ſo, that your <hi>Eye</hi> ſhall not ſee, nor your <hi>Ear</hi> hear, nor your <hi>Mouth</hi> taſte, nor your <hi>Finger</hi> touch, what <hi>Conſcience</hi> doth not warrant. No, though, as oft-times they will be, they be very troubleſome, and importunate for their <hi>unwarrantable Objects.</hi> Though you be put to <hi>vex</hi> and <hi>crucify</hi> your Fleſh in this Combate, as you muſt do, <hi>Gal.</hi> 5.24. This is what the Apoſtle ſpeaks in thoſe emphatical Phraſes, 1 <hi>Cor.</hi> 9.27. <hi>I keep under my Body, and bring it into ſubjection.</hi> Such a <hi>mortified</hi> Body will not be <hi>forſaken, nor its Seed beg Bread.</hi> But of thoſe that are <hi>pamper<g ref="char:EOLhyphen"/>ed,</hi> multitudes come to be <hi>famiſhed;</hi> Epicures do ſo eat up <hi>themſelves,</hi> as well as their <hi>Friends.</hi> As commonly do we ſee thoſe <hi>unclean Fowls</hi> go bare<g ref="char:EOLhyphen"/>foot, as <hi>other Geeſe;</hi> and almoſt as un<g ref="char:EOLhyphen"/>pitiedly. Yet, miſtake me not; all <hi>ſenſual</hi> Pleaſure is not <hi>ſinful.</hi> Some doth <hi>whet,</hi> and not <hi>let,</hi> Body and Mind
+<pb n="21" facs="tcp:39191:15"/> for their Services. And ſo much is <hi>lawful, needful,</hi> and <hi>laudable.</hi>
+            </p>
+            <p>It is Sin and Folly to prefer <hi>Money</hi> above the <hi>Body,</hi> as to prefer the <hi>Body</hi> above the <hi>Soul;</hi> and very oft this Fol<g ref="char:EOLhyphen"/>ly is conjunct. It's ſeldom any value their <hi>Fleſh</hi> more than their <hi>Spirit,</hi> but they take far greater care to preſerve their <hi>Eſtates</hi> than their <hi>Lives.</hi> Many are the <hi>Miſers,</hi> that die to ſave <hi>Charges.</hi>
+            </p>
+            <p>
+               <hi>Solomon,</hi> when he was returned to God, commanded <hi>eating with joy, and drinking with mirth,</hi> Eccleſ. 9.7. <hi>Enoch,</hi> while he walked with God, <hi>begat Sons and Daughters,</hi> Gen. 5.22. Sordid <hi>withholding</hi> and ſtingy, <hi>tends unto Po<g ref="char:EOLhyphen"/>verty,</hi> Prov. 11.24. They that pinch their Families Bellies, to cram and ſwell their Bags, do not ſo certainly <hi>die rich,</hi> as they <hi>live poor;</hi> but do to<g ref="char:EOLhyphen"/>gether ſin againſt Body and Eſtate. It is not the <hi>Holy Spirit</hi> that leads any Man to <hi>hate his own Fleſh;</hi> though it is moſt certain, <hi>Whoſoever indulgeth the Luxury and Lechery of the Fleſh, he is a Stranger and an Enemy unto that Heavenly Spirit.</hi> Temperance ſtands between <hi>Scylla</hi> and <hi>Charybdis;</hi> it's equal<g ref="char:EOLhyphen"/>ly
+<pb n="22" facs="tcp:39191:16"/> diſtant from <hi>Luxury</hi> and <hi>Penury.</hi> Hold that <hi>golden Mean,</hi> and ſhun both of <hi>theſe Rocks,</hi> you need not fear Ship<g ref="char:EOLhyphen"/>wrack. <hi>Never waſte a Penny, you ſhall never want a Shilling;</hi> ſaid Dr. <hi>Harris</hi> to his Children. It is becauſe <hi>Epicures</hi> and <hi>Miſers</hi> do ſwarm among us, that <hi>the Poor we have always with us;</hi> otherwiſe <hi>Beggars</hi> would be as rare in <hi>England,</hi> as <hi>Frogs</hi> and <hi>Spiders</hi> in <hi>Ireland.</hi>
+            </p>
+            <p>Direct. VIII. <hi>Lay not violent Hands on your ſelves.</hi> The <hi>Murder</hi> of many Mens Eſtates, is by their own wicked <hi>Hands and Seals.</hi> They do run into <hi>Danger,</hi> in hopes of coming out with <hi>Safety.</hi> Without juſt <hi>forelooking,</hi> they <hi>leap</hi> into perilous <hi>Projects</hi> and mortal <hi>Suretiſhips.</hi> But take you this Divine Counſel; <hi>Do not ever hang your ſelves, in hope the Cord will break.</hi> Do not for<g ref="char:EOLhyphen"/>get, or ſlight God's Word ſo much; his Word put into the Bible, to give Wiſdom to the Simple. <hi>Prov.</hi> 6.1. <hi>If thou be Surety for thy Friend, thou art ſnared, thou art taken with the Words of thy Mouth.</hi> Prov. 11.15. <hi>He that hateth Suretiſhip, is ſure.</hi> Prov. 20.16.
+<pb n="23" facs="tcp:39191:16"/> 
+               <hi>Take his Garment that is Surety for a Stranger:</hi> that is, Truſt not ſuch a Fool without a Pawn; no, take the Coat from his Back. It is true, Sure<g ref="char:EOLhyphen"/>tiſhip is in ſome Caſes <hi>lawful</hi> and <hi>neceſ<g ref="char:EOLhyphen"/>ſary; Gen.</hi> 42.37. <hi>Gen.</hi> 43.9. <hi>Philem.</hi> v. 18, 19. But always <hi>unlawful</hi> it is, to oblige you to pay for another more than you have <hi>right to diſpoſe of,</hi> and a <hi>ſincere Will and Purpoſe</hi> to pay for him, if need require.</p>
+            <p>It is, I ſuppoſe, wiſdom alway to <hi>give</hi> unto needy Men as much as we can ſpare; and not <hi>bind us at any time to pay for them any more.</hi> The Divine Wiſdom brandeth ordinary <hi>Sureties</hi> for <hi>Fools;</hi> Prov. 17.18. <hi>A Man void of <g ref="char:V">Ʋ</g>nderſtanding, ſtriketh Hands, and becometh Surety in the pre<g ref="char:EOLhyphen"/>ſence of his Friend.</hi> Wiſe Men may <hi>fall into Evils of Affliction ſeven times, and riſe up again.</hi>
+            </p>
+            <p>The Royal Preacher (in that much miſtaken Text) ſaith that they do ſo, <hi>Prov.</hi> 24.16. But <hi>Nabal</hi> is his Name, and Folly is with him, that <hi>leaps</hi> into ruinous Troubles. Notorious is the Reaſon of our common Saying, That
+<pb n="24" facs="tcp:39191:17"/> 
+               <hi>the greateſt Leapers break moſt Bones:</hi> And <hi>the moſt exquiſite Dancers on the Rope, die by the Rope.</hi> Providence is no ſafeguard to Deſperateneſs: The <hi>Ru<g ref="char:EOLhyphen"/>ines of many Rich Families</hi> be ſad <hi>Wit<g ref="char:EOLhyphen"/>neſſes.</hi>
+            </p>
+            <p>I do compaſſionately warn you and yours; adding but this memorable word, <hi>Moſt commonly they be Judaſſes that do hang themſelves;</hi> I mean, <hi>cove<g ref="char:EOLhyphen"/>tous</hi> as that Son of Perdition, and <hi>trea<g ref="char:EOLhyphen"/>cherous</hi> as he was. Where <hi>Kindneſs</hi> makes one Surety, <hi>Avarice</hi> and greedy expectation of Gain makes twenty. And we ſee that it's ſcarce one of twenty, who <hi>betrays not</hi> the Creditor, the Debtor, or himſelf. Wherefore if you will be <hi>Sureties,</hi> take good <hi>Advice</hi> firſt; remembring, that <hi>Judas</hi> who was his own <hi>Judg,</hi> was his own <hi>Executioner</hi> alſo.</p>
+            <p>Direct. IX. <hi>Load your Parents ſound<g ref="char:EOLhyphen"/>ly.</hi> So is the <hi>Hebrew Text</hi> in the <hi>fifth Commandment;</hi> load them with Ho<g ref="char:EOLhyphen"/>nour: Give them Meaſures of <hi>Reve<g ref="char:EOLhyphen"/>rence, Love, Gratitude</hi> and <hi>Obedience,</hi> preſſed down and running over. It is
+<pb n="25" facs="tcp:39191:17"/> a Commandment of <hi>expreſs</hi> Promiſe; and that Promiſe of <hi>greateſt</hi> temporal Good. It is the <hi>firſt Commandment of the ſecond Table;</hi> next and imme<g ref="char:EOLhyphen"/>diately to his own Honour, God ſtands for the Honour of Parents. His <hi>Zeal</hi> for it, appears in <hi>Threats</hi> for Sin a<g ref="char:EOLhyphen"/>gainſt it. Prov. 20.20. <hi>Whoſo curſ<g ref="char:EOLhyphen"/>eth his Father or Mother, his Lamp ſhall be put out in obſcure Darkneſs;</hi> that is, he ſhall live in Miſery, and die with Diſgrace. <hi>The Eye that mocketh at his Father, and deſpiſeth to obey his Mother, the Ravens of the Val<g ref="char:EOLhyphen"/>ley ſhall pick it out, and the young Ea<g ref="char:EOLhyphen"/>gles ſhall eat it,</hi> Prov. 30.17. that is, he that ſcorns and derides Parents, tho it be but with a <hi>Look</hi> and <hi>Geſture,</hi> and <hi>without one Word uttered,</hi> he ſhall <hi>die untimely</hi> and <hi>ignominiouſly;</hi> and af<g ref="char:EOLhyphen"/>ter Death be <hi>denied a Burial,</hi> lying ex<g ref="char:EOLhyphen"/>poſed to Birds of Prey.</p>
+            <p>Have you been guilty of <hi>Diſobedi<g ref="char:EOLhyphen"/>ence?</hi> Be as eminent for your <hi>Repen<g ref="char:EOLhyphen"/>tance.</hi> Have you been <hi>Dutiful</hi> to your Parents? continue to be ſo to your laſt Breath. <hi>Fathers be Kings, and Mo<g ref="char:EOLhyphen"/>thers
+<pb n="26" facs="tcp:39191:18"/> be Queens unto you their Chil<g ref="char:EOLhyphen"/>dren.</hi> Next and immediately under <hi>God, Chriſt and Conſcience,</hi> they be your ſupream Moderators and Gover<g ref="char:EOLhyphen"/>nours. Sweeten you <hi>their</hi> Lives, and God will ſweeten yours. Honour you them, God will honour you. Scrip<g ref="char:EOLhyphen"/>ture and Providence ſay of this Duty, <hi>Length of Days is in its right Hand, and in its left Hand are Riches and Ho<g ref="char:EOLhyphen"/>nour,</hi> Prov. 3.16.</p>
+            <p>Direct. X. <hi>Marry to none but Heirs of the Crown;</hi> Heirs of the Crown incorruptible. <hi>Poor Matches</hi> be the notorious Seminary of <hi>Beggars.</hi> The King of Heaven is not <hi>Childleſs</hi> in <hi>England;</hi> and he provides, as becom<g ref="char:EOLhyphen"/>eth a King, for his Children. All be <hi>Heirs of God,</hi> Rom. 8.17. and <hi>Heirs of the Kingdom,</hi> James 2.5. All of them he <hi>bleſſeth;</hi> and his <hi>Bleſſing mak<g ref="char:EOLhyphen"/>eth rich, and addeth no Sorrow with it,</hi> Prov. 10.22. A rare Portion, is it not? A godly <hi>Man</hi> is the Son of the King of Kings; a godly <hi>Woman</hi> is his Daughter. The ungodly of both Sexes
+<pb n="27" facs="tcp:39191:18"/> be the <hi>Devil's Children,</hi> and outlawed <hi>Rebels.</hi> The <hi>Wrath of God abideth on them,</hi> John 3.36. <hi>God's Curſe is on their very Bleſſings,</hi> Malach. 2.2. Will ye marry <hi>Rebels?</hi> then bear you <hi>Hun<g ref="char:EOLhyphen"/>ger,</hi> and wear <hi>Rags.</hi> They deſerve to be ſtung, that chuſe a Serpent for their Boſom. And they cannot look for God's Bleſſing, who prefer ſuch <hi>Ver<g ref="char:EOLhyphen"/>mine</hi> before his <hi>Children:</hi> liking bet<g ref="char:EOLhyphen"/>ter to have <hi>Satan,</hi> than to have his <hi>divine Majeſty</hi> for their <hi>Father-in-Law.</hi> Would you ſecure an Eſtate? do not <hi>burn,</hi> nor <hi>marry a Child of his who hath no Eſtate,</hi> but the Lake of Fire. <hi>Luſt</hi> conſumeth many ſingle Perſons; and <hi>ill Yoke-fellows</hi> ſtarve many married Ones. But while the <hi>Earth is the Lord's, and the Fulneſs of it,</hi> you need not to fear Famine, if you marry into his Royal Family: If you take a Child of his; and that for his Glory, 1 <hi>Cor.</hi> 10.31. and by his Will, expreſ<g ref="char:EOLhyphen"/>ſed in the Rule of his Word, <hi>Gal.</hi> 6.16. which is that which the Apoſtle nameth <hi>marrying in the Lord,</hi> 1 Cor. 7.39.</p>
+            <pb n="28" facs="tcp:39191:19"/>
+            <p>This I judg they do not, who take ſuch a <hi>Husband</hi> or <hi>Wife,</hi> as a good Miniſter ſhould not dare to take unto the <hi>Lord's Supper.</hi> And my Advice is, that you hold this Rule; refuſing <hi>Marriage-Covenant</hi> with thoſe that re<g ref="char:EOLhyphen"/>new not their <hi>Baptiſmal-Covenant.</hi>
+            </p>
+            <p>Direct. XI. <hi>Make Battlements for the Roof of your Houſe.</hi> That is, make ſuch <hi>Proviſions againſt Sin</hi> in your Fa<g ref="char:EOLhyphen"/>milies, as ſhall make it hard for any to be wicked therein. Make, and keep good <hi>Rules of Government.</hi> So that none ſhall <hi>fall headlong</hi> into deſtructive Courſes, for want of the <hi>Fence</hi> there<g ref="char:EOLhyphen"/>of. Nor periſh, unleſs they will wil<g ref="char:EOLhyphen"/>fully leap into <hi>Perdition,</hi> notwith<g ref="char:EOLhyphen"/>ſtanding all your Means of their <hi>Sal<g ref="char:EOLhyphen"/>vation.</hi> See the Law, <hi>Deut.</hi> 22.8. <hi>When thou buildeſt a new Houſe, then thou ſhalt make a Battlement for thy Roof, that thou bring not Blood upon thine Houſe, if any Man fall from thence.</hi>
+            </p>
+            <p>Bleſſed are the Houſe-keepers, that do their beſt to make all their Houſe
+<pb n="29" facs="tcp:39191:19"/> bleſſed. But how few of theſe are to be found? Hence, more than from our War with <hi>France,</hi> cometh Pover<g ref="char:EOLhyphen"/>ty. Prov. 3.33. <hi>The Curſe of the Lord is in the Houſe of the Wicked; but he bleſſeth the Habitation of the Juſt.</hi> Wicked you are, and not Juſt, if God gives you a Houſe, and you rule not for God therein, but againſt God. Not to <hi>rule for</hi> him, is to <hi>rebel againſt</hi> him; and then, what wonder if he eject you? But do you Rule for God, that make not all your Family hear his Word, as daily as eat his Bread? as daily <hi>pray</hi> together, as <hi>work</hi> or <hi>eat</hi> to<g ref="char:EOLhyphen"/>gether? And to diſcern by your Words and Behaviour, that they cannot <hi>of<g ref="char:EOLhyphen"/>fend God,</hi> without <hi>offending you;</hi> or any way ſo much <hi>pleaſe you,</hi> as by care to <hi>pleaſe God.</hi> Yea, to find that there is no abiding in any known Sin in your Families, without <hi>Reproof</hi> to them, and <hi>Reformation</hi> by them. Pſal. 101.7. <hi>He that worketh Deceit, ſhall not dwell in my Houſe.</hi> O that theſe words were written on Houſe-keepers Hearts; Abraham<hi>'s Family-government
+<pb n="30" facs="tcp:39191:20"/> will bring all Family-bleſſings,</hi> Gen. 18.19. <hi>The Houſe of the Righteous ſhall ſtand,</hi> Prov. 12.7. <hi>The Tabernacle of the <g ref="char:V">Ʋ</g>pright ſhall flouriſh.</hi> When Fa<g ref="char:EOLhyphen"/>mily-Piety revives, <hi>the Evil ſhall bow before the Good, and the Wicked at the Gates of the Righteous,</hi> Prov. 14.11, 19.</p>
+            <p>Direct. XII. <hi>Take ſpecial care of the King's Children.</hi> The King of Hea<g ref="char:EOLhyphen"/>ven calleth yours, his own. God hath <hi>given</hi> me a Child, ſaith every Parent. But God ſo giveth them to every Pa<g ref="char:EOLhyphen"/>rent, as that he himſelf remaineth ſtill the <hi>Proprietor.</hi> He gives them unto you, but only to <hi>educate</hi> for him. <hi>Your Children</hi> are ſtill <hi>his Children;</hi> and ſo he expreſly calls them, <hi>My Children,</hi> Ezek. 16.21. <hi>whom thou haſt born unto me,</hi> verſ. 20. You are but <hi>Nurſes</hi> cho<g ref="char:EOLhyphen"/>ſen by the <hi>grand Parent;</hi> the <hi>Father of Spirits,</hi> Heb. 12.9. and the <hi>Faſhio<g ref="char:EOLhyphen"/>ner of Bodies,</hi> Pſal. 139.16. His they are, and he it is that ſaith of every Babe unto you, as <hi>Pharaoh</hi>'s Daughter ſaid of <hi>Infant-Moſes</hi> unto the Hebrew
+<pb n="31" facs="tcp:39191:20"/> Woman, <hi>Take thou this Child and nurſe it for me, and I will pay thee thy Wages.</hi>
+            </p>
+            <p>This Father of the Children you call yours, is a <hi>great King,</hi> and <hi>as kind a Father.</hi> God is a mighty lover of Children. You may compare Snow and Fire, as well as your Love and his, unto Children. Expect no other, his Wrath, the fierceneſs of his <hi>Wrath,</hi> cometh on ſuch as neglect theſe Objects of his <hi>Love.</hi> A Neglect, that is, of Sins ſinfulleſt; the Sin, that next to <hi>Original Sin,</hi> doth moſt to the cor<g ref="char:EOLhyphen"/>rupting of the <hi>World,</hi> and the fil<g ref="char:EOLhyphen"/>ling of <hi>Hell.</hi> And a Sin, whereto Poverty and all Judgments are ex<g ref="char:EOLhyphen"/>treamly owing.</p>
+            <p>Children be choice <hi>Gifts</hi> of God, rich <hi>Rewards</hi> of his Grace, <hi>Pſal.</hi> 127.3, 5. <hi>Write this Man Childleſs,</hi> is in effect, write him <hi>Comfortleſs.</hi> In<g ref="char:EOLhyphen"/>deed, <hi>Africa</hi> is not the only Country of <hi>Monſters;</hi> ours beareth many, that wiſh to be <hi>Childleſs</hi> to ſave <hi>Charges.</hi> Egregious Wiſdom, <hi>to wiſh one may have no Lands, for fear of the Coſt of
+<pb n="32" facs="tcp:39191:21"/> Tillage.</hi> Well-cultivated Children en<g ref="char:EOLhyphen"/>rich their <hi>Fathers,</hi> as well-tilled Lands enrich their <hi>Owners.</hi> Truly good <hi>Breeding</hi> is the Parent's <hi>Bleſſing</hi> as well as the Child's. From <hi>Children,</hi> as from <hi>Land,</hi> we do ordinarily, and we may expect alway, to <hi>Reap</hi> as we <hi>Sow.</hi> A rich People we ſhould ſoon be, if generally the <hi>Culture of our Minds,</hi> were as well followed as that of <hi>our Grounds.</hi> Were they as painfully <hi>Plowed, Sown, Fenced, Watered, Weed<g ref="char:EOLhyphen"/>ed;</hi> the ill-natured Phraſe of a <hi>Charge of Children,</hi> would be diſmiſſed; we ſhould take to ſay, <hi>a Stock of Children,</hi> and count it a moſt valuable One. Wherefore let paſt <hi>Neglects</hi> be throughly repented, and utmoſt <hi>Dili<g ref="char:EOLhyphen"/>gence</hi> be henceforth uſed. Let not vain Mens <hi>Hawks,</hi> Race-<hi>Horſes,</hi> and Setting-<hi>Dogs,</hi> have more Care and Coſt beſtow'd on them, than their <hi>Childrens Souls.</hi> Let not any lay out more Time and Pains to teach their Children a <hi>Game of Folly,</hi> or a <hi>Trade for a Penny,</hi> than you lay out on yours to teach them their <hi>Baptiſmal Cove<g ref="char:EOLhyphen"/>nant,</hi>
+               <pb n="33" facs="tcp:39191:21"/> and the glorious <hi>Art of living unto God.</hi>
+            </p>
+            <p>
+               <hi>Train</hi> the King's Children in the King's Way, <hi>Prov.</hi> 22.6. <hi>Bring them up</hi> therein, <hi>Epheſ.</hi> 6.4. Let Heaven ring of your Prayers for them; <hi>(O that Iſhmael might live!)</hi> Provoke not, chide not the King's Children <hi>without</hi> Cauſe, or <hi>above it, Epheſ.</hi> 6. <hi>Pro<g ref="char:EOLhyphen"/>vide</hi> for them, and <hi>give</hi> them all that you are able, without countenancing them in Evil, or making them a Way to it, 1 <hi>Tim.</hi> 5.8. <hi>Lay up</hi> for them, as well as <hi>lay out upon</hi> them, though you be put to deny your ſelves uſeleſs <hi>Or<g ref="char:EOLhyphen"/>naments</hi> and unneceſſary <hi>Pleaſures</hi> to compaſs it, 2 <hi>Cor.</hi> 12.14. <hi>Diſpoſe of them in Marriage</hi> wiſely, and tempt them not to Folly, 1 <hi>Cor.</hi> 7.38. Let it be ſeen, you are as much afraid of <hi>their Poverty,</hi> as of <hi>your own;</hi> and more a<g ref="char:EOLhyphen"/>fraid of their want of <hi>Grace,</hi> than of their want of <hi>Money.</hi> This do, and ſee if the great lover of <hi>Children</hi> do ever ſtarve their <hi>Nurſes.</hi> No, he will not; but, <hi>He will feed them with the fineſt of the Wheat; with Honey out
+<pb n="34" facs="tcp:39191:22"/> of the Rock will he ſatisfy them,</hi> Pſal. 81.16.</p>
+            <p>Direct. XIII. <hi>Let not Arſenick be your Salt.</hi> So it is when an <hi>ill Man</hi> is choſen for your <hi>Companion.</hi> You are ſociable Creatures; <hi>Company</hi> you muſt and will have. Unto the Company of your Love and Choice, you are very <hi>Bondmen.</hi> Inviſible Chains of theirs, hold you even unawares. It's your Life to have them good; you are <hi>dead</hi> Men, if they be <hi>evil</hi> Ones. Good ones our Saviour nameth <hi>Salt,</hi> that ſeaſons you, <hi>Matth.</hi> 5.13. Ill ones are as very <hi>Arſenick</hi> to poiſon you. Of your Company, much is at your Choice; and there are but theſe two ſorts for you to chuſe.</p>
+            <p>That the latter doth <hi>poiſon and undo</hi> you, is ſure; <hi>A Companion of Fools ſhall be deſtroy'd.</hi> That the former doth <hi>ſeaſon and better</hi> you, is as plain; He <hi>that walks with wiſe Men, ſhall be wiſe,</hi> Prov. 13.20. Yet how few are ſo nice of their <hi>Company,</hi> as they be of their <hi>Food</hi> or <hi>Sauce?</hi> Unadviſed, how
+<pb n="35" facs="tcp:39191:22"/> much depends on it, for temporal Good and Spiritual? Though it be rare for any at the <hi>Gallows,</hi> and on the <hi>Dunghil,</hi> not to exclaim againſt ill Company for bringing them thither; robbing them of their <hi>Time,</hi> their <hi>
+                  <g ref="char:V">Ʋ</g>nderſtandings,</hi> their <hi>Hearts,</hi> their <hi>Names,</hi> and their <hi>Money,</hi> altogether.</p>
+            <p>There is no fear of Want, where theſe Texts are obſerved; <hi>Prov.</hi> 14.7. <hi>Go from the preſence of a fooliſh Man, when thou perceiveſt not in him the Lips of <g ref="char:V">Ʋ</g>nderſtanding; q. d.</hi> endure not his poiſonous Breath. Pſal. 119.63. <hi>I am a Companion of all them that fear God, and keep his Precepts; q. d.</hi> others be my <hi>Eye-ſores,</hi> theſe be the <hi>de<g ref="char:EOLhyphen"/>light of my Eyes.</hi>
+            </p>
+            <p>Religious <hi>Friends</hi> ſtick as cloſe as <hi>Brothers,</hi> and are as full of <hi>good Of<g ref="char:EOLhyphen"/>fices</hi> to us. Their <hi>Prayers</hi> will be of unknown Worth, ſo will be their <hi>Counſels;</hi> and if we ſhall deſerve them, their <hi>Commendations</hi> of us, to Perſons that will be moſt helpful to us. What we are moſt likely to deſerve and to need, their <hi>Reproofs</hi> will be of
+<pb n="36" facs="tcp:39191:23"/> excellent uſe, to bring us to <hi>Repentance,</hi> and from thence to <hi>Innocence,</hi> and beyond it too. Whereunto their holy <hi>Exam<g ref="char:EOLhyphen"/>ple</hi> conduceth more than a little. For this Cauſe, ſaid <hi>David, They that fear thee, will be glad when they ſee me,</hi> Pſal. 119.74.</p>
+            <p>In a word, a Man is always <hi>burnt</hi> with the Fire, or <hi>blacked</hi> with the Smoak of <hi>bad</hi> Company: And al<g ref="char:EOLhyphen"/>ways he is <hi>refined,</hi> or at leaſt <hi>refreſhed</hi> with Company that is <hi>good. Reputa<g ref="char:EOLhyphen"/>tion</hi> and <hi>Safety, Comfort</hi> and <hi>Profit,</hi> are got in good Company, and loſt in Evil.</p>
+            <p>Direct. XIV. <hi>Kindle huge Fires on your Enemies Heads.</hi> Be they hardned in their Enmity, made hard as Iron? Fear them not. Coals of Fire heaped on it, melts down Iron: And true Kind<g ref="char:EOLhyphen"/>neſs, <hi>giving and forgiving from the Heart,</hi> will work as much on cruel Hearts. <hi>There is a Charity, as well as a Faith, of Miracles:</hi> It is your Fault if its <hi>Miracles ceaſe.</hi> Feed your Hun<g ref="char:EOLhyphen"/>gry, give Drink to your thirſty Ene<g ref="char:EOLhyphen"/>my,
+<pb n="37" facs="tcp:39191:23"/> my, clothe your naked One; you ſhall ſee ſtrange Effects, <hi>Rom.</hi> 12.20. We have known many undone by <hi>exaſpe<g ref="char:EOLhyphen"/>rating</hi> their Enemies, and by being <hi>overcome of their Evil;</hi> by flaſhing Wild-fire in their Faces. But never heard we of a Man that proved not his own Friend, by <hi>kindneſs</hi> to his Foe. Sacred Fire, as Love's is, is al<g ref="char:EOLhyphen"/>ways profitable.</p>
+            <p>Monſters there be, whoſe Evil can<g ref="char:EOLhyphen"/>not be overcome of its Good; but then doth the overflowing Grace of God otherwiſe reward it. He ſhall never be a <hi>miſerable</hi> poor Man, <hi>who giveth no place to Wrath, and leaveth all Ven<g ref="char:EOLhyphen"/>geance unto God,</hi> Rom. 12.19.</p>
+            <p>Direct. XV. <hi>Truſt not your Door without a Watch.</hi> There is a <hi>Door</hi> of yours, out of which come Legions of Evils to you. A <hi>Door</hi> that needs Watch and Ward, as much as the <hi>Gate of any beſieged City.</hi> A Door to which <hi>David</hi> ſought to Heaven for a Watch; Pſal. 141.3. <hi>Set a Watch before my Mouth, O Lord; keep the Door of my
+<pb n="38" facs="tcp:39191:24"/> Lips.</hi> And well he might, for we are told, <hi>Prov.</hi> 13.3. <hi>He that openeth wide his Lips, ſhall have Deſtruction.</hi> The Tongue is <hi>a Fire, a World of Iniquity; it defiles the whole Body, ſets on fire the Courſe of Nature, is ſet on fire of Hell,</hi> Jam. 3.6.</p>
+            <p>St. <hi>Paul</hi> is large in the Account of the <hi>Sins of Speech, Rom.</hi> 3. But who can name all? or count the Evils done by <hi>unwary Words?</hi> All Places are full of Inſtances of their impoveriſhing Efficacy. Who knows not ſuch as had not wanted <hi>Bread for their Mouths,</hi> had they not wanted a <hi>Bridle to their Tongues?</hi> Or, would they have timely <hi>believed,</hi> what they after <hi>felt; Better a Head without a Tongue, than a Tongue without Government.</hi> An Eſtate is a ſmall thing; a whole <hi>Kingdom</hi> hath been loſt by a <hi>raſh</hi> Word.</p>
+            <p>Attend me, O you that are Poor; Immortal <hi>John Fox</hi> profeſſed, he did forget <hi>Lords and Ladies</hi> to remember ſuch as you. This Diſcourſe ſpeaks my <hi>Care</hi> of you; and this that follows flows from my <hi>Kindneſs</hi> unto you. It's your great Miſtake, that you have
+<pb n="39" facs="tcp:39191:24"/> nothing but your <hi>Fingers ends</hi> to live by: Nothing therefore to be careful of but them. Alas, your Welfare, and the contrary, cometh as much from your <hi>Tongues Ends.</hi> And the Di<g ref="char:EOLhyphen"/>vine Wiſdom counſelleth you to take as much care of them. Subject then your Lips to God's Laws. Take heed to your <hi>Words</hi> as well as your <hi>Works.</hi> See that your Tongues drop nothing but <hi>Honey;</hi> ſuch is all that is of Ho<g ref="char:EOLhyphen"/>nour to God, of Uſe to Men, of Be<g ref="char:EOLhyphen"/>nefit to your ſelf. All that truly <hi>edi<g ref="char:EOLhyphen"/>fies,</hi> or innocently <hi>recreates.</hi> The <hi>Pſal<g ref="char:EOLhyphen"/>miſt</hi>'s Rule is as good as Free Land; <hi>What Man is he that deſireth Life, and loveth many Days that he may ſee Good? Keep thy Tongue from Evil, and thy Lips from ſpeaking Guile,</hi> Pſal. 34.13. <hi>Death and Life are in the Power of the Tongue;</hi> our Safety depends on the uſe of it, <hi>Prov.</hi> 18.21.</p>
+            <p>If any Rich and Noble beſtow their Eye on theſe Pages, I advance this Doctrine to their conſideration; <hi>God preſcribes one and the ſame way for all Men to Proſperity. Dukes</hi> and <hi>very Kings,</hi>
+               <pb n="40" facs="tcp:39191:25"/> as well as <hi>Stockarders</hi> and <hi>Plowmen,</hi> muſt keep their <hi>Tongues</hi> from Evil, if they expect to have their <hi>Eſtates</hi> good. <hi>Crowned Heads</hi> have not the Promiſe of good Days, without good Tongues in them. <hi>Palaces</hi> are no ſuch <hi>privileged</hi> Places, that Men may ſpeak what they pleaſe in them. <hi>By their Words God judgeth, and bleſſeth or curſeth Princes and Peaſants.</hi>
+            </p>
+            <p>Direct. XVI. <hi>
+                  <g ref="char:V">Ʋ</g>nite Courteſy and Truth.</hi> Godlineſs is not <hi>clowniſh;</hi> Di<g ref="char:EOLhyphen"/>vine Graces are no <hi>Enemies to good Manners.</hi> It is an Apoſtolical and Di<g ref="char:EOLhyphen"/>vine Precept, <hi>Be ye courteous,</hi> 1 Pet. 3.8. Be of a pleaſant, winning Conver<g ref="char:EOLhyphen"/>ſation, [<gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, i. e. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] loving and affecting to pleaſe as far as <hi>innocently</hi> we may, in <hi>Words, Looks, Geſtures, Habits.</hi> Inconformity to ſinleſs Cuſtoms herein, cometh of E<g ref="char:EOLhyphen"/>vil, and worketh Evil. It's an un<g ref="char:EOLhyphen"/>reaſonable <hi>ruggedneſs</hi> of Behaviour, and contracts miſchievous <hi>Cenſure, Diſ<g ref="char:EOLhyphen"/>affection,</hi> and <hi>Blame.</hi> Few eſteem a <hi>moroſe</hi> Man as other than a <hi>Hedghog;</hi>
+               <pb n="41" facs="tcp:39191:25"/> and his needleſs ungrateful <hi>Singulari<g ref="char:EOLhyphen"/>ties,</hi> as other than <hi>Briſtles</hi> turned to his Neighbours. It is very oft that a gracious Man faulty herein, is ſe<g ref="char:EOLhyphen"/>cluded, and one of no ſerious Reli<g ref="char:EOLhyphen"/>gion is taken into a gainful Employ<g ref="char:EOLhyphen"/>ment. None wondring, that <hi>the beſt of an ill Man, ſhould be preferred before the worſt of a good One:</hi> Though la<g ref="char:EOLhyphen"/>menting that a good Man ſhould be the Martyr of his adhering Diſtem<g ref="char:EOLhyphen"/>per.</p>
+            <p>But how dear is <hi>Truth</hi> to God and Men? What is <hi>Fallacious,</hi> is <hi>odiouſly Courteous.</hi> Religious Courtſhip is without Diſſimulation; it is a Com<g ref="char:EOLhyphen"/>plaiſance with Love, and with the Love of Love. The Truth of both in the inward Parts; Simplicity and Sincerity. 1 John 3.18. <hi>Let us not love in Word, neither in Tongue, but in Deed and in Truth: q. d.</hi> Let not our Love have only <hi>Lips,</hi> and no <hi>Hands.</hi> Words without Works are heartleſs. Let us abhor <hi>real</hi> Unkindneſs as much as <hi>Verbal;</hi> and of the two, let us more fear to do an <hi>ill thing,</hi> than to
+<pb n="42" facs="tcp:39191:26"/> ſpeak an <hi>unkind Word.</hi> Let our <hi>Vera<g ref="char:EOLhyphen"/>city</hi> and <hi>Integrity</hi> be as conſpicuous, as the World's <hi>Falſity</hi> is notorious. It is ſure that Love univerſally exerciſed, and apparently unfeigned, highly pleaſeth God, and mightily takes with Man. Nor will you in haſte be for<g ref="char:EOLhyphen"/>ſaken of either, if you provoke them neither by <hi>Churliſhneſs</hi> nor <hi>Falſeneſs.</hi> You can come into no Want, till you are forſaken: And how ſhould you be forſaken by any other Means? Where<g ref="char:EOLhyphen"/>fore <hi>expreſs</hi> all the Love ye ought, and <hi>bear in Heart</hi> all the Love you expreſs; then <hi>ſhall you not be aſhamed in the evil Day; and in Days of Famine you ſhall be ſatisfied,</hi> Pſal. 37.19.</p>
+            <p>Direct. XVII. <hi>Be at Court one whole Day in a Week:</hi> At the King Eter<g ref="char:EOLhyphen"/>nal's Court, I mean. Six Days of the Week we have ſomewhat to do beſide: But <hi>one</hi> Day, the <hi>firſt,</hi> we have no<g ref="char:EOLhyphen"/>thing to do beſide; we are called to the <hi>Court of the Great King;</hi> therein to <hi>reſt</hi> and <hi>feaſt</hi> our Souls all the Day long: <hi>Seeing the King of Glory's Face;
+<pb n="43" facs="tcp:39191:26"/> hearing his Voice; eating of his holy Bread, and drinking of his holy VVine: Remembring his redeeming Love more than VVine; making a joyful Noiſe to him with Pſalms, and Hymns, and ſpi<g ref="char:EOLhyphen"/>ritual Songs; taking the Day in his Courts, for better than a thouſand in Shops: calling it our Delight.</hi> But let it not be asked, <hi>VVill a Man rob God?</hi> Where is the Man that robbeth him not of his Day? The Day, which is the Lord's, <hi>electively,</hi> as his choſen Lot; and his, <hi>ſubjectively,</hi> as that whereon his Affairs are to be tranſact<g ref="char:EOLhyphen"/>ed.</p>
+            <p>Who makes Conſcience of <hi>Sacri<g ref="char:EOLhyphen"/>lege?</hi> of taking God's Time, and giv<g ref="char:EOLhyphen"/>ing it to the <hi>Fleſh,</hi> to <hi>Sleep,</hi> to their own <hi>Ways,</hi> to their own <hi>Words,</hi> to their own <hi>Pleaſures?</hi> Whoſe Heart ſmites him for cutting off a Moment, half Hour, or whole Hour of the <hi>King's Day?</hi> Who haſtens <hi>early</hi> to his Court, be<g ref="char:EOLhyphen"/>ginning the Sabbath in the <hi>Mount?</hi> Who is not weary of his Court, but ends the Sabbath late in the <hi>Valley?</hi> Where is any great <hi>Zeal</hi> for his Court,
+<pb n="44" facs="tcp:39191:27"/> commanding of <hi>Children</hi> and <hi>Servants</hi> into it? And is not the Divine Maje<g ref="char:EOLhyphen"/>ſty provoked hereby, think we? Yea, and <hi>becauſe of theſe things cometh his Wrath all the Week after on the Chil<g ref="char:EOLhyphen"/>dren of Diſobedience.</hi> They ſlight his <hi>Court,</hi> and he overthrows their <hi>Houſe;</hi> they neglect or <hi>profane his Table,</hi> and he will not <hi>ſpread theirs;</hi> their Fami<g ref="char:EOLhyphen"/>lies are <hi>Dens of Thieves,</hi> and his re<g ref="char:EOLhyphen"/>venging Juſtice makes them Habita<g ref="char:EOLhyphen"/>tions of <hi>multiplied Sorrows.</hi> There<g ref="char:EOLhyphen"/>fore is it that we ſee not <hi>better Days,</hi> becauſe we <hi>no better hallow the Lord's Day.</hi> Therefore decayeth <hi>ſecular Trade</hi> and its <hi>Markets,</hi> becauſe <hi>Trade for Heaven</hi> is let down, and the <hi>Mar<g ref="char:EOLhyphen"/>ket for that</hi> is ſo ill kept. <hi>If ye hal<g ref="char:EOLhyphen"/>low the Sabbath Day, there ſhall enter into this City Kings and Princes ſitting upon the Throne of</hi> David, <hi>and the City ſhall remain for ever. But if ye will not hallow the Sabbath Day, then will I kindle a Fire in the Gates thereof, and it ſhall devour the Palaces</hi> (as well as <hi>Shops) of</hi> Jeruſalem, <hi>and it ſhall not be quenched,</hi> Jer. 17.</p>
+            <pb n="45" facs="tcp:39191:27"/>
+            <p>Your Bleſſings depend on your keep<g ref="char:EOLhyphen"/>ing the Day that God hath bleſſed. You cannot <hi>profane</hi> it, and be ſure of Bread; nor <hi>ſanctify</hi> it, and be with<g ref="char:EOLhyphen"/>out good Security of it. <hi>Iſa.</hi> 58.13, 14. <hi>If thou turn away thy Foot from the Sabbath,</hi> &amp;c. <hi>then ſhalt thou delight thy ſelf in the Lord,</hi> [have pleaſure and comfort in all Kindneſs of his to thee.] <hi>I will cauſe thee to ride in the high Places of the Earth,</hi> [I will put thee above the reach of Danger.] <hi>I will feed thee with the Heritage of</hi> Jacob, [Thou ſhalt have from me Milk and Ho<g ref="char:EOLhyphen"/>ney.] <hi>The Mouth of the Lord hath ſpo<g ref="char:EOLhyphen"/>ken it.</hi>
+            </p>
+            <p>Direct. XVIII. Laſtly; <hi>Wreſtle all the Week.</hi> The higheſt Maſter of Language, calleth <hi>Praying</hi> a <hi>Wreſtling.</hi> Happy they that are not only <hi>Jacobs,</hi> but <hi>Iſraels;</hi> not only <hi>VVreſtlers</hi> with God, but <hi>Prevailers.</hi> They that <hi>have,</hi> and do well <hi>uſe,</hi> the Skill given by God's Spirit, which never fails, <hi>never lets God go, without giving the Bleſſing for which we come.</hi> Is the Holy Ghoſt
+<pb n="46" facs="tcp:39191:28"/> your Advocate? then he gives you this <hi>rare Art:</hi> An <hi>Art</hi> the World knows nothing of; having ſcarce heard whether there be any ſuch or no; therefore ſeek they not after it.</p>
+            <p>But I am ſpeaking to <hi>Chriſtians;</hi> profeſſed <hi>Temples of the Holy Ghoſt,</hi> the Spirit of <hi>Supplication:</hi> Conſequent<g ref="char:EOLhyphen"/>ly, a People that have this Art and Skill. <hi>VVreſtlers,</hi> that if they uſe their Art, and (as becomes them) ſtrain hard every Vein therein, may gain all they want from him with whom they have to do. <hi>Ask, and ye ſhall re<g ref="char:EOLhyphen"/>ceive; Every one that asketh, receiveth,</hi> Mat. 7.7, 8. Receiveth, yea, commonly <hi>receiveth more than he has the Faith and Face to ask.</hi> Let an <hi>Abraham</hi> ask a Son; he has <hi>one,</hi> and the Promiſe of an <hi>Off<g ref="char:EOLhyphen"/>ſpring as numerous as the Stars.</hi> Let a <hi>Jacob</hi> ask but <hi>Food and Raiment,</hi> he has it, and <hi>two Bands alſo.</hi> Let a <hi>Solomon</hi> ask <hi>VViſdom;</hi> he has it, and hath <hi>VVealth and Honour</hi> thrown in with it. Let a <hi>Canaanite</hi> ask but a few of the <hi>Dog's Crumbs;</hi> ſhe hath given her the <hi>Childrens beſt Bread.</hi> There is no end
+<pb n="47" facs="tcp:39191:28"/> of <hi>Examples.</hi> Whence is it then that you want any promiſed Good of the Covenant? the <hi>Covenant is your Char<g ref="char:EOLhyphen"/>ter for Temporals as well as Spirituals, remember.</hi>
+            </p>
+            <p>Sirs, Either <hi>you wreſtle not, or not ſo well as you are able.</hi> You <hi>receive not, becauſe you ask amiſs,</hi> James 4.3. De<g ref="char:EOLhyphen"/>ny it not, doubt it not; for, <hi>VVhatſo<g ref="char:EOLhyphen"/>ever you</hi> (the weakeſt Chriſtians) <hi>ask the Father in Chriſt's Name</hi> (with all the little Skill you have) <hi>he will give it you,</hi> John 16.23.</p>
+            <p>And here ſhut you my Book; ſit down a little and think; ſtand up then, and ſay if you can really imagine, that theſe <hi>Texts</hi> do ſignify nothing? Or do leſs than aſſure us of this, that, <hi>The pooreſt Chriſtian alive may have a Sup<g ref="char:EOLhyphen"/>ply of his VVants, if he will but fetch it upon his Knees.</hi> Holy Mr. <hi>Carter</hi> told his Neighbour, who complain'd that he did not <hi>Thrive,</hi> though he <hi>worked hard,</hi> and <hi>fared hard;</hi> he would ſure<g ref="char:EOLhyphen"/>ly Thrive if he alſo <hi>prayed hard.</hi>
+            </p>
+            <p>Hear this, O you that ſcarce have from Hand to Mouth, as you ſpeak;
+<pb n="48" facs="tcp:39191:29"/> and are at your Wits end to think how you ſhall get through the next Win<g ref="char:EOLhyphen"/>ter's Cold! Tho God may not keep you <hi>from the Croſs,</hi> he has bound him<g ref="char:EOLhyphen"/>ſelf to maintain you <hi>under the Croſs;</hi> to give you <hi>Bread,</hi> if he deny you <hi>Trade;</hi> to <hi>ſweeten</hi> Water, if he bring you to <hi>drink</hi> it; in ſhort, <hi>to give you your Heart's-deſire, or to bring your Heart's-deſire to what he gives you.</hi> If you wreſtle not amiſs, to this he hath bound himſelf. You are <hi>your own Thieves,</hi> if you go without <hi>Mainte<g ref="char:EOLhyphen"/>nance,</hi> for you may ſurely <hi>have</hi> it for <hi>asking.</hi> And of the two, <hi>rather would I ask and not receive, than receive and not ask.</hi> There is ſuch a <hi>Bread and VVine</hi> in <hi>Prayer</hi> it ſelf; <hi>Spiritual VVreſtling doth get one ſuch a comforta<g ref="char:EOLhyphen"/>ble Heat.</hi> But fear you not, where no Fear is; theſe Promiſes be God's bleſſed Bonds given you. <hi>Pſal.</hi> 50.15. <hi>Call upon me in the Day of Trouble, I will deliver thee, and thou ſhalt glori<g ref="char:EOLhyphen"/>fy me.</hi> Pſal. 34.10. <hi>The young Lions do lack and ſuffer Hunger; but they that ſeek the Lord, ſhall not want any good
+<pb n="49" facs="tcp:39191:29"/> thing.</hi> Jer. 29.12. <hi>Ye ſhall go and pray unto me, and I will hearken unto you.</hi>
+            </p>
+            <p>Direct. XIX. <hi>Get well acquainted with your Father's Will and Teſtament.</hi> The <hi>Holy Bible</hi> is no other, if <hi>Jeſus Chriſt</hi> be your <hi>Father.</hi> Vaſt and im<g ref="char:EOLhyphen"/>menſe are his <hi>Riches;</hi> and in and by this ſaid <hi>Will,</hi> he hath <hi>bequeathed</hi> all unto you. For which Cauſe he is named a <hi>Teſtator,</hi> and his Word a <hi>Te<g ref="char:EOLhyphen"/>ſtament,</hi> Heb. 9.15, 16, 17. The <hi>Teſtament,</hi> wherein you are to read the Inventory of the <hi>Goods you are to receive,</hi> and the Sum of the <hi>Debts you are to pay</hi> to your Supream King, and to your Fellow-Subjects.</p>
+            <p>Let your Hearts be like the <hi>Ark,</hi> Repoſitories of the Divine <hi>Word,</hi> and ſee if you ever want Bread. This take alſo for your <hi>Encouragement;</hi> It was a leſs Honour to the <hi>Virgin Mary</hi> to bear Chriſt in her Womb, than it ſhall be unto you to carry his <hi>Teſta<g ref="char:EOLhyphen"/>ment</hi> in your Hearts. <hi>Luke</hi> 11.27, 28. <hi>Bleſſed is the Womb that bare thee! But
+<pb n="50" facs="tcp:39191:30"/> he ſaid, Yea, rather bleſſed are they that hear the Word, and keep it.</hi>
+            </p>
+            <p>Indeed, <hi>Wills</hi> and <hi>Teſtaments</hi> are not eaſily <hi>underſtood</hi> by raw <hi>Babes;</hi> nor do their <hi>Memories</hi> ſoon retain <hi>great and numerous Legacies.</hi> But your tender Father hath provided <hi>good Help</hi> for your <hi>Infirmities.</hi> He hath choſen for you ſuch an <hi>Executor of his Will,</hi> as is able to <hi>teach you all things:</hi> And, that being done, to <hi>bring all things to your remembrance.</hi> Nor is he more <hi>able,</hi> than <hi>willing,</hi> to <hi>receive of Chriſt's,</hi> and <hi>ſhow it unto you;</hi> provided that he be duly ſought unto. Sought unto in <hi>Prayer,</hi> and in all other his <hi>inſtituted Means.</hi> This bleſſed <hi>Executor,</hi> you know, is the <hi>Holy Ghoſt; God,</hi> by E<g ref="char:EOLhyphen"/>ternal <hi>Eſſence,</hi> and <hi>Sanctifier and Com<g ref="char:EOLhyphen"/>forter</hi> by <hi>Office.</hi>
+            </p>
+            <p>Need I ſay, what a frequent loſs to Children the <hi>Ignorance of their Fa<g ref="char:EOLhyphen"/>ther's Will</hi> is? the World well know<g ref="char:EOLhyphen"/>eth. But your <hi>unacquaintedneſs with Chriſt's Teſtament,</hi> is a <hi>Sin</hi> more hai<g ref="char:EOLhyphen"/>nous, and a <hi>Loſs</hi> more horrible than I am able to ſay. Such an <hi>Affront</hi> is it
+<gap reason="missing" resp="#OXF" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb n="53" facs="tcp:39191:30"/> 
+               <hi>diſpleaſure,</hi> condemn thee to <hi>thouſands by the Year.</hi> In <hi>Judgment</hi> he may give thee <hi>all Comforts,</hi> beſides the <hi>Comfort of the Scriptures.</hi> And remember it, that the World throughout, where <hi>Chriſt's Word</hi> is not to be had, there be few <hi>good Meals</hi> made. People have <hi>bare Feet,</hi> or but <hi>wooden Shoes,</hi> and <hi>bit<g ref="char:EOLhyphen"/>ting Salt.</hi> Where it may be had, and it is not uſed; even as the <hi>Day-light,</hi> for conſtant <hi>Walk</hi> and <hi>Work; Chaſtiſe<g ref="char:EOLhyphen"/>ments</hi> or <hi>Curſes</hi> are at the Door. And flatter we not our ſelves, <hi>France</hi> con<g ref="char:EOLhyphen"/>quered, and <hi>Turkie</hi> and <hi>India-Trade</hi> exalted, be nothing to enrich us, if our <hi>Saviour's Will and Teſtament</hi> lay neglected. But if <hi>young Men and Mai<g ref="char:EOLhyphen"/>dens, old Men and Children,</hi> duly ply that, <hi>there ſhall be no complaining in our Streets:</hi> But, <hi>Corn ſhall make the young Men chearful, and Wine the Maids,</hi> Zech. 9.17.</p>
+            <p>Direct. XX. <hi>See that your Meat be not your Poiſon.</hi> Good <hi>Works</hi> be the <hi>Meat</hi> of good Chriſtians. Their Lord ſaid of himſelf, and in their Meaſure
+<pb n="54" facs="tcp:39191:31"/> they ſay after him; <hi>My Meat is to do the Will of him that ſent me, and to finiſh his Work,</hi> John 4.34. But <hi>Con<g ref="char:EOLhyphen"/>ceit of Merits,</hi> is the <hi>Poiſon of Aſps:</hi> If this <hi>Poiſon</hi> get into your <hi>Head,</hi> you loſe your Life. For <hi>Chriſt ſhall profit you nothing,</hi> if you place Merit in any thing. In any thing wrought in you, in any thing wrought by you, <hi>Gal.</hi> 5.2. <hi>As many as are of the Works of the Law, are under the Curſe of the Law,</hi> Gal. 3.10. To <hi>truſt to your good Works</hi> to pacify God's Wrath, and to merit his Love, and to buy ſo much as a morſel of Bread, is to <hi>be of the Works of the Law.</hi> To be of the Party that is ſo bitterly guilty and con<g ref="char:EOLhyphen"/>demned. And, to <hi>be under the Wrath which the Law threatens</hi> to Soul and Body, to Name and Eſtate, is to <hi>be under the Curſe,</hi> and <hi>poiſonous Sting</hi> of it: A Condition you can't look to thrive in.</p>
+            <p>
+               <hi>God be merciful to us Sinners</hi> of this Day: Whoſe <hi>evil Works</hi> are <hi>unparal<g ref="char:EOLhyphen"/>lellable;</hi> and our <hi>good Ones,</hi> for the moſt part, are <hi>Evil.</hi> Little Bread;
+<pb n="55" facs="tcp:39191:31"/> and that which is, poiſoned. <hi>Papiſts</hi> have the <hi>Plague,</hi> but <hi>Proteſtants</hi> have the <hi>Fever.</hi> Merit is their <hi>open Faith,</hi> but it is alſo our inward <hi>lurking Fol<g ref="char:EOLhyphen"/>ly.</hi>
+            </p>
+            <p>Even <hi>Luther,</hi> its victorious Enemy, would complain of a <hi>Pope in his Belly.</hi> And our <hi>Engliſh Luther</hi> ſaid conſonant<g ref="char:EOLhyphen"/>ly, <hi>I may lift up Chriſt in my Pulpit, and pull him down in my Heart.</hi> Sad are the Indications, that <hi>Roman Frogs</hi> have place in very <hi>Puritans Bed-cham<g ref="char:EOLhyphen"/>bers.</hi> So that <hi>ſlender Alms</hi> are given, with <hi>ſwelling Opinions</hi> of them; and God hath <hi>little Service</hi> from us, with<g ref="char:EOLhyphen"/>out conceit of his contracting a <hi>great Debt</hi> to us. We declaim againſt adding the <hi>Virgin</hi> Mary<hi>'s Milk</hi> unto <hi>Jeſus Chriſt's Blood;</hi> but can imagine that our own <hi>Prayers,</hi> and <hi>Sweat</hi> and <hi>Tears,</hi> will make a good Mixture. Now this know; <hi>Whoredom</hi> and <hi>Witchcraft</hi> are not more odious in God's Sight. He will not bear ſuch Indignities done un<g ref="char:EOLhyphen"/>to his own <hi>Munificence,</hi> and to his Son's <hi>Righteouſneſs.</hi> If you will not ſerve <hi>him</hi> as the <hi>perfect Giver,</hi> and his <hi>Son</hi>
+               <pb n="56" facs="tcp:39191:32"/> as the <hi>ſole Purchaſer</hi> of all Good, the Devil muſt have your Works and Ser<g ref="char:EOLhyphen"/>vice, for God will not accept of them. They are <hi>Carrion</hi> and not <hi>Sacrifice</hi> for him. His Wrath is revealed from Heaven againſt your <hi>dead Lions</hi> and your <hi>living Dogs;</hi> Againſt the <hi>Carcaſs</hi> of your <hi>Vertues,</hi> as well as the <hi>Soul</hi> and <hi>Body</hi> of your <hi>Vices;</hi> againſt your <hi>pha<g ref="char:EOLhyphen"/>riſaical Hearing</hi> and <hi>Praying,</hi> as well as againſt your <hi>Tipling</hi> and <hi>Blaſpheming.</hi>
+            </p>
+            <p>Nor is it to be doubted, but for the one as well as the other, God is this Day contending with us. And <hi>we may thank our Practical Popery, for our Epidemical Poverty.</hi> To this will it be juſtly aſcribed, if, as on the <hi>Jews,</hi> Wrath come upon the <hi>Britains</hi> to the <hi>uttermoſt.</hi>
+            </p>
+            <p>What but Wo can betide us, when our very Religion is Irreligious? Help, Lord, or we are <hi>twice dead,</hi> and ſhall be <hi>plucked up by the Roots.</hi> I am teach<g ref="char:EOLhyphen"/>ing People this Truth, but find few that haſtily learn it: <hi>The Devil is eve<g ref="char:EOLhyphen"/>ry Man's King, who makes himſelf his own Prieſt.</hi> Who mixes the <hi>Covenants</hi>
+               <pb n="57" facs="tcp:39191:32"/> of <hi>Works</hi> and <hi>Grace;</hi> and ſcrapes for the Honour of a <hi>joint Purchaſer with Jeſus Chriſt:</hi> Expecting good things, partly for Chriſt's Oblation and Inter<g ref="char:EOLhyphen"/>ceſſion, and partly for his own.</p>
+            <p>Will any Man now ſay; <hi>To what purpoſe then is it that we ſhould ſerve God?</hi> or be zealous of good Works? I think you have been told <hi>good Rea<g ref="char:EOLhyphen"/>ſon</hi> in every <hi>Direction.</hi> But you ſhall have <hi>a Candle lighted for you in the Sun.</hi> We <hi>Miniſters</hi> are Debtors to the moſt <hi>
+                  <g ref="char:V">Ʋ</g>nwiſe.</hi> There is abundance of Reaſon to eat Bread that is <hi>whol<g ref="char:EOLhyphen"/>ſome;</hi> as mad work as it is to ſwallow <hi>Poiſon.</hi> In Nature, you muſt eat or die; and in Religion, you muſt be doing, or be undone: For God <hi>elected, redeemed,</hi> and <hi>new created</hi> you for good Works, <hi>Epheſ.</hi> 1.4. <hi>Tit.</hi> 2.14. <hi>Epheſ.</hi> 2.10. And dare you to croſs God's <hi>Ends?</hi> He <hi>commands</hi> and <hi>requires</hi> you to abound in good Works, <hi>Tit.</hi> 3.8. <hi>Phil.</hi> 1.11. 1 <hi>Pet.</hi> 2.15. And dare you to <hi>diſobey</hi> the Lord whom you dare not <hi>deny?</hi> He <hi>delights</hi> in your good Works, <hi>Prov.</hi> 12.22. <hi>Prov.</hi> 15.8. <hi>Heb.</hi> 13.16. And dare
+<pb n="58" facs="tcp:39191:33"/> you, that are out Hell by his Favour, to <hi>deny him his Pleaſure?</hi> He is <hi>ho<g ref="char:EOLhyphen"/>noured before Men</hi> by your good Works, and by nothing elſe, <hi>Matth.</hi> 5.6. And dare you, feloniouſly, <hi>to take from him his <g ref="char:V">Ʋ</g>niverſal Glory in this World?</hi> He <hi>judgeth Men</hi> by their Works, here, in our preſent State, and hereafter at the final general Judg<g ref="char:EOLhyphen"/>ment; He <hi>renders to every Man ac<g ref="char:EOLhyphen"/>cording to his Works,</hi> Pſalm 19.11. Rom. 2.6. Rev. 20.12, 13. And dare you to make trial, whether he be not a God <hi>changeable?</hi> whether he will not <hi>tolerate</hi> your <hi>Sloth,</hi> and give you a <hi>right to the Tree of Life,</hi> without <hi>keep<g ref="char:EOLhyphen"/>ing his Commandments?</hi> Rev. 22.14. In ſhort;</p>
+            <p>
+               <hi>God's Mercy</hi> makes not needleſs <hi>Chriſt's Merits;</hi> that <hi>Fountain</hi> ſends no Drop of Goodneſs to us, but through this <hi>Conduit.</hi> And <hi>Chriſt's Merits</hi> do not make <hi>our Faith</hi> needleſs; un<g ref="char:EOLhyphen"/>applied <hi>Balſam</hi> can heal no <hi>Wound.</hi> And <hi>holy Faith</hi> cannot excuſe <hi>good Works;</hi> as good never a whit, as ne<g ref="char:EOLhyphen"/>ver the better. As good no Roots as
+<pb n="59" facs="tcp:39191:33"/> no Fruits. Without Communion, vain is all Union. If I bear not <hi>Fruit,</hi> as good never have been <hi>ingrafted</hi> into Chriſt's <hi>Stock.</hi> If I abide an <hi>uſeleſs Member,</hi> as good never have had Chriſt my <hi>Head.</hi> If I continue <hi>Straw</hi> and <hi>Chaff,</hi> as good never have been built on Chriſt's Royal <hi>Foundation.</hi> If I bring not <hi>Iſſue</hi> unto God, as good never have been <hi>married</hi> to Chriſt. So that, good Works are as <hi>neceſſary</hi> and <hi>far from uſeleſs,</hi> as if they were really <hi>meritorious.</hi> And he that obeys not Chriſt as <hi>King</hi> and <hi>Law-giver,</hi> he takes Satan for his <hi>Prophet</hi> and <hi>Com<g ref="char:EOLhyphen"/>mander.</hi> As ever you expect this World's Comforts, or next World's Glories, <hi>Do all good Works, though you reſt in none.</hi>
+            </p>
+            <p>
+               <hi>Antichriſtian Faith</hi> laid in Ruins the renowned <hi>Jeruſalem.</hi> And <hi>Antino<g ref="char:EOLhyphen"/>mian Life</hi> brought Hell from Heaven upon <hi>Sodom.</hi> The Lord add more <hi>Faith</hi> to <hi>London</hi>'s <hi>Vertue,</hi> and more <hi>Vertue</hi> to our <hi>Faith!</hi> The Lord ſend us more Faith for our Works, and more Works from our Faith. Works of
+<pb n="60" facs="tcp:39191:34"/> 
+               <hi>Worſhip</hi> towards God; Works of <hi>So<g ref="char:EOLhyphen"/>briety, Watchfulneſs,</hi> and <hi>Self-denial.</hi> Works of <hi>Juſtice</hi> and <hi>Charity</hi> towards Men. Works of the <hi>Callings wherein we are placed;</hi> (for from <hi>Angels</hi> to <hi>Worms,</hi> God giveth an Employment to all <hi>his Creatures.</hi>)</p>
+            <p>The Complaint Abroad is, that <hi>Mo<g ref="char:EOLhyphen"/>ney</hi> is ſcarce, and <hi>Trade</hi> dead: But no <hi>Money</hi> ſeems ſo ſcarce as this <hi>Faith that is of the true Royal Stamp;</hi> no <hi>Trade</hi> ſo dead, as this of <hi>good Works undefiled.</hi> If theſe be had and held by you, you ſhall find and feel true the <hi>Apoſtle</hi>'s words, 1 <hi>Tim.</hi> 4.8. <hi>They have the Promiſe of the Life that now is.</hi> If not, you may e're long be made to exclaim, in <hi>Moſes</hi>'s words, <hi>Lord, we are conſumed by thine Anger, and by thy Wrath are we troubled,</hi> Pſ. 90.7.</p>
+            <p>Theſe <hi>twenty Directions</hi> thus do, and ſee what God will do. Remembring ſtill theſe my concluding Words, to prevent your Miſtake of God's Word: <hi>What is truly BEST for you, God will give to you.</hi> Rom. 8.28. <hi>All ſhall
+<pb n="61" facs="tcp:39191:34"/> work for Good.</hi> Temporal <hi>Bleſſings,</hi> if God deny in <hi>one way,</hi> he will make Compenſation in <hi>another.</hi> Chriſt was denied the Deliverance that he asked; but had it made up in the Support that his Father granted, <hi>Matth.</hi> 26.39. <hi>Luke</hi> 22.43.</p>
+            <p>The Covenant of Grace exempts you not from the Rod, if you break theſe Rules. Pſal. 89.30, 31, 32. <hi>If his Children forſake my Law, and walk not in my Judgments; If they break my Statutes, and keep not my Commandments: Then will I viſit their Tranſgreſſion with the Rod, and their Iniquity with Stripes.</hi> In exe<g ref="char:EOLhyphen"/>cuting of his <hi>Threats,</hi> God doth not break his <hi>Promiſes.</hi>
+            </p>
+            <p>My <hi>Directions</hi> are <hi>ended.</hi> By ſome, it's like, they will be <hi>quarrelled:</hi> But I think them <hi>of Qualifications to anſwer for themſelves.</hi> The <hi>Language</hi> is <hi>unu<g ref="char:EOLhyphen"/>ſual;</hi> yes, but 'tis not found <hi>unprofita<g ref="char:EOLhyphen"/>ble.</hi> The <hi>Matter</hi> will offend; for ma<g ref="char:EOLhyphen"/>ny <hi>good Souls</hi> do all that's here advi<g ref="char:EOLhyphen"/>ſed, and yet <hi>be not rich enough.</hi> No? let that be proved. What godly Soul will tell me of any <hi>bitter Wants,</hi> and
+<pb n="62" facs="tcp:39191:35"/> diſclaim <hi>all Guilts?</hi> I meet with no ſuch.</p>
+            <p>But what is the <hi>Deſign</hi> of theſe Di<g ref="char:EOLhyphen"/>rections? <hi>They are very blind that will not ſee.</hi> It is to fetch <hi>Martha</hi> to the place of <hi>Mary,</hi> at her Saviour's Feet: To empty Hearts of <hi>earthly Cares,</hi> that room may be made for <hi>Heavenly:</hi> To kill the <hi>Thorns</hi> that choak the Seed of the Word; Yea, the <hi>Canker</hi> that preys upon, and eats up the Souls of many. To perſwade Men <hi>to mind and do all that they have to do, and not take God's Work out of his Hands;</hi> but leave him to provide for their Subſi<g ref="char:EOLhyphen"/>ſtence; and <hi>practically</hi> regard our Re<g ref="char:EOLhyphen"/>deemer's Command, <hi>five or ſix times repeated,</hi> Matth. 6. <hi>Take no thought</hi> (no diſquieting diſtracting One) <hi>for your Life,</hi> or Livelyhood.</p>
+            <p>Briefly; to convince of this Truth, that <hi>God is a kind</hi> and no hard Maſter: And that his <hi>good and faithful Ser<g ref="char:EOLhyphen"/>vants,</hi> are not themſelves when they <hi>diſtruſt</hi> him. And when they ceaſe to tell him to this effect; <q rend="inline">Lord, I refer all to thee: I would have nothing but what thou thinkeſt good. The Condi<g ref="char:EOLhyphen"/>tion that is good in thy Eyes, ſhall
+<pb n="63" facs="tcp:39191:35"/> ſeem beſt in mine. Infinite Wiſdom cannot chuſe amiſs for me. And the Goodneſs and Power which are no leſs, will not fail to beſtow that on me. Wherefore henceforth I will no more trouble my Heart with Thoughts, who ſhall give me Bread to eat; than with Thoughts who ſhall give me Day<g ref="char:EOLhyphen"/>light to ſee by, or Air to breath in. I will take it for very certain, that the Covenant of Grace is the beſt Freehold in the Creation, for this World and for the next. And therefore, although the Figtree ſhall not bloſſom, neither ſhall Fruit be in the Vines; the labour of the Olive ſhall fail, and the Fields ſhall yield no Meat; the Flock ſhall be cut off from the Fold, and there ſhall be no Herd in the Stalls; yet I will rejoice in the Lord, I will joy in the God of my Salvation, <hi>Hab. 3.17, 18.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Policy</hi> fails, and <hi>Strength</hi> fails, I know. <hi>Serpents</hi> I have ſeen naked, and <hi>Foxes</hi> thin Clothed and Bald; I have ſeen <hi>Lion's</hi> very meagre, and <hi>Bears</hi> but lean. The profoundeſt <hi>Sophy</hi> of our
+<pb n="64" facs="tcp:39191:36"/> Nation died poor. And ſtrange <hi>Ex<g ref="char:EOLhyphen"/>emplars of Diligence</hi> have lived in wretched Want. But my Saviour's Rule I am ſure is infallible; <hi>Seeking firſt, and moſt, and all God's Kingdom and Righteouſneſs; All, and every need<g ref="char:EOLhyphen"/>ful thing muſt be added to me.</hi> I muſt have all I want. In <hi>Heaven</hi> they have not as yet all they have a Will unto. The Saints there are without their <hi>Bo<g ref="char:EOLhyphen"/>dies,</hi> and much of their <hi>Company.</hi> I may not expect more on <hi>Earth,</hi> than they have in <hi>Heaven.</hi> But <hi>there</hi> have they as much as they yet want, and <hi>here</hi> will I expect ſo much alſo.</p>
+            <q>
+               <p>
+                  <hi>And now,</hi> Farewel worldly Sorrow. <hi>Farewel</hi> all Sorrow in the World, ſave only for the world of Sin in me and it. Lord Jeſus, thou knoweſt all things, thou knoweſt that I love thee! <hi>And (to my Comfort) I know ſo much,</hi> Thou cauſeſt them that love thee to in<g ref="char:EOLhyphen"/>herit Subſtance, Thou filleſt their Treaſures; <hi>With Good</hi> perfect, <hi>with<g ref="char:EOLhyphen"/>out Defect; and</hi> Perpetual <hi>without Decay; the Good of the</hi> upper <hi>Springs and the</hi> Nether. All Things are mine,
+<pb n="65" facs="tcp:39191:36"/> for I am thine. <hi>In proper Speech</hi> the Devil hath no Child Rich, and my Lord and my God hath not one Poor. <hi>Let them be</hi> Poor <hi>therefore that can be ſo. I cannot</hi> want, <hi>I am moſt certain; the</hi> King's Tax <hi>ſhall be well paid, and</hi> my Houſe <hi>well kept, as long as I do,</hi>
+               </p>
+               <list>
+                  <item>
+                     <hi>1.</hi> Truſt my Guardians.</item>
+                  <item>
+                     <hi>2.</hi> Go to School to the Ants.</item>
+                  <item>
+                     <hi>3.</hi> Lean on no Reeds.</item>
+                  <item>
+                     <hi>4.</hi> Serve but one Maſter.</item>
+                  <item>
+                     <hi>5.</hi> Wear my Maſter's Livery.</item>
+                  <item>
+                     <hi>6.</hi> Hold my Heart at my right Hand.</item>
+                  <item>
+                     <hi>7.</hi> Beware of my five Enemies.</item>
+                  <item>
+                     <hi>8.</hi> Lay not violent Hands on my ſelf.</item>
+                  <item>
+                     <hi>9.</hi> Load my Parents ſoundly.</item>
+                  <item>
+                     <hi>10.</hi> Marry none but an Heir to the Crown.</item>
+                  <item>
+                     <hi>11.</hi> Make Battlements to my Houſe.</item>
+                  <item>
+                     <hi>12.</hi> Take Care of the King's Children.</item>
+                  <item>
+                     <hi>13.</hi> 
+                     <g ref="char:V">Ʋ</g>ſe good Salt.</item>
+                  <item>
+                     <hi>14.</hi> Kindle huge Fires on my Enemies Heads.</item>
+                  <item>
+                     <hi>15.</hi> Keep my Watch at my Door.</item>
+                  <item>
+                     <hi>16.</hi> 
+                     <g ref="char:V">Ʋ</g>nite Courteſy and Truth.</item>
+                  <pb n="66" facs="tcp:39191:37"/>
+                  <item>
+                     <hi>17.</hi> Be at Court one whole Day in a Week; <hi>And,</hi>
+                  </item>
+                  <item>
+                     <hi>18.</hi> Wreſtle hard all the Week.</item>
+                  <item>
+                     <hi>19.</hi> Get well acquainted with my Fa<g ref="char:EOLhyphen"/>ther's Will and Teſtament.</item>
+                  <item>
+                     <hi>20.</hi> See that my Meat be not my Poiſon.</item>
+               </list>
+               <p>
+                  <hi>And</hi> this will I do, <hi>if God ſhall give me to</hi> will <hi>and to</hi> do <hi>it!</hi>
+               </p>
+            </q>
+            <p>Jabez <hi>called on the God of</hi> Iſrael, <hi>ſay<g ref="char:EOLhyphen"/>ing, O that thou wouldeſt bleſs me indeed, and enlarge my Coaſt; and that thy Hand might be with me, and that thou wouldeſt keep me from Evil, that it may not grieve me. And God granted him that which he requeſted,</hi> 1 Chron. 4.20.—<hi>Becauſe thou haſt asked VViſdom and Knowledg for thy ſelf;—VViſdom and Knowledg is given to thee, and I will give thee Riches, and VVealth, and Honour,</hi> 2 Chron. 1.11, 12.</p>
+         </div>
+         <div type="hymn">
+            <lg>
+               <pb n="67" facs="tcp:39191:37"/>
+               <head>Queſt. <hi>1.</hi>
+               </head>
+               <l>WHoſe is <hi>this Earth?</hi> whoſe <hi>Goods</hi> be all</l>
+               <l>The Creatures it contains?</l>
+               <l>Who <hi>takes the Care</hi> of this wide World?</l>
+               <l>As <hi>Lord</hi> and <hi>King</hi> who reigns?</l>
+            </lg>
+            <lg>
+               <head>Anſwer.</head>
+               <l>The <hi>Father, Son,</hi> and <hi>Holy Ghoſt,</hi>
+               </l>
+               <l>Are the one <hi>King</hi> and <hi>Lord;</hi>
+               </l>
+               <l>Who <hi>made,</hi> and <hi>owns, keeps</hi> all, and <hi>rules</hi>
+               </l>
+               <l>All by his wond'rous Word.</l>
+            </lg>
+            <lg>
+               <head>Queſt. <hi>2.</hi>
+               </head>
+               <l>But who be <hi>they this King affects?</hi>
+               </l>
+               <l>Who be his <hi>Favourites?</hi>
+               </l>
+               <l>In <hi>filling</hi> whom with all good things,</l>
+               <l>His Majeſty delights?</l>
+            </lg>
+            <lg>
+               <head>Anſwer.</head>
+               <l>They be <hi>the Juſt, that live by Faith,</hi>
+               </l>
+               <l>On's <hi>Power, Love</hi> and <hi>Truth;</hi>
+               </l>
+               <l>As <hi>Orphans</hi> on their <hi>Guardians</hi> lean,</l>
+               <l>Throughout their helpleſs Youth.</l>
+            </lg>
+            <lg>
+               <l>They be <hi>the faithful Servants,</hi> who</l>
+               <l>In conſtant Labours ſweat;</l>
+               <l>And take more pleaſure in <hi>God's Work,</hi>
+               </l>
+               <l>Than earthly Princes Meat.</l>
+            </lg>
+            <lg>
+               <pb n="68" facs="tcp:39191:38"/>
+               <l>They be <hi>the Saints, that truſt not Kings,</hi>
+               </l>
+               <l>And <hi>Princes,</hi> for their Bread;</l>
+               <l>As knowing, <hi>Kings be poor themſelves,</hi>
+               </l>
+               <l>And from God's Board be fed.</l>
+            </lg>
+            <lg>
+               <l>They be the <hi>Calebs,</hi> that, all times,</l>
+               <l>Serve <hi>fully</hi> their own Lord;</l>
+               <l>By whom <hi>Religion</hi> cut in halves,</l>
+               <l>As <hi>Atheiſm,</hi> is abhorr'd.</l>
+            </lg>
+            <lg>
+               <l>They be <hi>the poor in Spirit,</hi> known</l>
+               <l>By their <hi>Humility;</hi>
+               </l>
+               <l>Who of all Mercies, ever ſay,</l>
+               <l>
+                  <hi>Leſs than the leaſt am I.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>They be <hi>the wiſe in Heart,</hi> whoſe <hi>Minds</hi>
+               </l>
+               <l>In Cares are exercis'd;</l>
+               <l>And whoſe <hi>right Hands</hi> ſtrait execute,</l>
+               <l>What they have well devis'd.</l>
+            </lg>
+            <lg>
+               <l>They be <hi>the Spirit's Souldiers,</hi>
+               </l>
+               <l>Againſt the <hi>Fleſh</hi> they fight;</l>
+               <l>Againſt the ravenous <hi>Luſts</hi> of Senſe,</l>
+               <l>The <hi>Hell,</hi> nam'd, <hi>Appetite!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>They be <hi>the wiſely Charitable;</hi>
+               </l>
+               <l>
+                  <hi>Raſh Suretiſhip</hi> they loath:</l>
+               <l>Forward they are to <hi>Lend</hi> and <hi>Give,</hi>
+               </l>
+               <l>But with <hi>Diſcretion</hi> both.</l>
+            </lg>
+            <lg>
+               <l>They be <hi>the Children good,</hi> who pay</l>
+               <l>A Duty not oft ſeen;</l>
+               <l>To whom a <hi>Father</hi> is a <hi>King,</hi>
+               </l>
+               <l>And <hi>Mother</hi> is a <hi>Queen.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="69" facs="tcp:39191:38"/>
+               <l>They be <hi>the Chaſte and Holy Ones,</hi>
+               </l>
+               <l>Who purely keep their Bed;</l>
+               <l>And of God's Royal Family</l>
+               <l>Adopted Children wed!</l>
+            </lg>
+            <lg>
+               <l>They be <hi>the Friends of God, whoſe Zeal</hi>
+               </l>
+               <l>
+                  <hi>Their Houſe a Church doth make;</hi>
+               </l>
+               <l>And ſee that <hi>all their Houſhold</hi> ſhall</l>
+               <l>Their <hi>Houſe,</hi> or <hi>Sin,</hi> forſake.</l>
+            </lg>
+            <lg>
+               <l>They be <hi>the Holy Abraham's,</hi>
+               </l>
+               <l>That tend <hi>God's Nurſery:</hi>
+               </l>
+               <l>And uſe their <hi>Power, Skill</hi> and <hi>Love,</hi>
+               </l>
+               <l>Their <hi>Babes</hi> to <hi>ſanctify.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>They be <hi>the fearful of the Plague</hi>
+               </l>
+               <l>
+                  <hi>In Fools infectious Breath;</hi>
+               </l>
+               <l>They count, <hi>walk with the Wiſe,</hi> is <hi>Life,</hi>
+               </l>
+               <l>And <hi>walk with Fools,</hi> is <hi>Death!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>They be <hi>the Follow'rs of the Lamb,</hi>
+               </l>
+               <l>That <hi>bleſs'd</hi> and <hi>curſed</hi> not;</l>
+               <l>The <hi>glorious Art of pard'ning Spight,</hi>
+               </l>
+               <l>Their <hi>Chriſtian Souls</hi> have got.</l>
+            </lg>
+            <lg>
+               <l>They be <hi>the Davids, who ſuſpect</hi>
+               </l>
+               <l>
+                  <hi>Their Mouths moſt dangerous Door;</hi>
+               </l>
+               <l>Strict <hi>Watch</hi> they keep; and for a <hi>Guard</hi>
+               </l>
+               <l>They do their God implore!</l>
+            </lg>
+            <lg>
+               <l>They be <hi>the lovers of true Love;</hi>
+               </l>
+               <l>Their Pleaſure is to pleaſe:</l>
+               <l>And what gives any one Diſtaſte,</l>
+               <l>Takes from their <hi>Reſt</hi> and <hi>Eaſe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="70" facs="tcp:39191:39"/>
+               <l>They be the <hi>Saints, who every Week,</hi>
+               </l>
+               <l>
+                  <hi>In Heaven ſpend one Day;</hi>
+               </l>
+               <l>Glad in their Heart, that at God's Court</l>
+               <l>They have ſo ſweet a ſtay!</l>
+            </lg>
+            <lg>
+               <l>They be <hi>the Jacobs, that in Pray'r,</hi>
+               </l>
+               <l>
+                  <hi>Do wreſtle all the Week;</hi>
+               </l>
+               <l>Nor ceaſe they, till, as <hi>Iſrael,</hi>
+               </l>
+               <l>They <hi>gain</hi> the things they ſeek.</l>
+            </lg>
+            <lg>
+               <l>They be <hi>the Heirs of Life, that prize</hi>
+               </l>
+               <l>
+                  <hi>Chriſt's Will and Teſtament;</hi>
+               </l>
+               <l>By Day they read it, and by Night,</l>
+               <l>Without it no Content.</l>
+            </lg>
+            <lg>
+               <l>They be the <hi>Zealous of good Works;</hi>
+               </l>
+               <l>And <hi>Jealous</hi> of them too;</l>
+               <l>They all <hi>perform,</hi> and all <hi>diſclaim;</hi>
+               </l>
+               <l>
+                  <hi>Truſt</hi> none of all they <hi>do.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Theſe be <hi>the Men of God, our King;</hi>
+               </l>
+               <l>Theſe be his <hi>Favourites;</hi>
+               </l>
+               <l>In <hi>filling</hi> theſe with all good Things,</l>
+               <l>His Majeſty <hi>delights:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Theſe be the <hi>Apples of his Eye;</hi>
+               </l>
+               <l>Theſe in him ſafely truſt:</l>
+               <l>
+                  <hi>Others</hi> can only <hi>wiſh</hi> to thrive;</l>
+               <l>But <hi>theſe</hi> for certain <hi>muſt.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:39191:39"/>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:39191:40"/>
+            <head>Books ſold by <hi>Andrew Bell</hi> and <hi>Jonas Luntley.</hi>
+            </head>
+            <p>RULES for heating the Word of God with certain and ſaving Benefit. The Second Edition.</p>
+            <p>
+               <hi>The Sure Way to Wealth.</hi> Infallible Directions to get and keep ſufficient Riches, even while Taxes riſe, and Trades ſink. Both by Mr. <hi>Daniel Burgeſs.</hi>
+            </p>
+            <p>The fulfilling of the Scripture, or a Diſcovery of the Accompliſhment of God's Holy Word in his Providen<g ref="char:EOLhyphen"/>tial Works. The third Edition, corrected, and enlarged with Doctrines and Hiſtories, by the Author Mr. <hi>Robert Fleming,</hi> Paſtor of a Church in <hi>Roterdam.</hi> Publiſhed and recommended by Mr. <hi>Burgeſs.</hi>
+            </p>
+            <p>Mr. <hi>Rutherford</hi>'s Letters, the third Edition, now di<g ref="char:EOLhyphen"/>vided into three Parts. The firſt containing thoſe which were written from <hi>Aberdeen,</hi> where he was confined by a Sentence of the <hi>High Commiſſion</hi> drawn forth againſt him, partly upon the account of his <hi>declining</hi> them, partly upon the account of his <hi>Nonconformity.</hi> The Second and Third containing ſome which were written from <hi>An<g ref="char:EOLhyphen"/>woth,</hi> before he was by the <hi>Prelates</hi> Perſecution thruſt from his Miniſtry; and others upon Occaſions afterward, from St. <hi>Andrews, London,</hi> &amp;c. Publiſhed for the Uſe of all the People of God, but more particularly for thoſe who now are, or afterwards may be put to ſuffering for Chriſt and his Cauſe.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
